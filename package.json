@@ -1,0 +1,22 @@
+{
+  "name": "tokyo-night-default-dark",
+  "displayName": "Tokyo Night Default Dark",
+  "description": "Dark default workbench based on tokyo-night",
+  "version": "0.1.0",
+  "publisher": "i3acksp4ce",
+  "engines": {
+    "vscode": "^1.72.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Tokyo Night Default Dark",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Tokyo Night Default Dark-color-theme.json"
+      }
+    ]
+  }
+}
