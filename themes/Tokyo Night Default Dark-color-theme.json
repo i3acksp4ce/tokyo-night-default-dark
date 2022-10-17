@@ -391,6 +391,13 @@
       }
     },
     {
+      "name": "JSON String",
+      "scope": ["constant.language.json"],
+      "settings": {
+        "foreground": "#c678dd"
+      }
+    },
+    {
       "name": "Link",
       "scope": "string.detected-link",
       "settings": {
