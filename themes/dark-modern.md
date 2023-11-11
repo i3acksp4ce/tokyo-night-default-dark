@@ -1,30 +1,66 @@
-### from base color fix to WCAG AAA
-
-https://www.learnui.design/tools/accessible-color-generator.html
-
-#### background color
-
 ```
-#1e1e1e
-```
+9.72 => 7.16
+#7dcfff
+#6eb1df
 
-#### foreground color
+6.59 => 7.22
+#e08f68
+#ec956e
 
-```
-#7dcfff =>
-#e08f68 => #e8966f
-#dec76e =>
-#545964 => #a4aab6
-#e5c07b =>
-#c678dd => #DB8BF2
-#accfd7 =>
-#36c0c0 => #36c0c0
-#eb6572 => #ff838d
-#6199ef => #77acff
-#72c369 =>
-#d19a66 => #d69f6b
-#F8F8F0 =>
-#75715E => #b0ac97
-#676f7d => #a3acbb
-#ffffff =>
+9.92 => 7.21
+#dec76e
+#c0a95f
+
+2.37 => 7.32
+#545964
+#a2acc2
+
+9.65 => 7.16
+#e5c07b
+#c9a46d
+
+5.66 => 7.15
+#c678dd
+#e286f9
+
+10.05 => 7.16
+#accfd7
+#91afb7
+
+7.51 => 7.2
+#36c0c0
+#34bcbc
+
+5.27 => 7.16
+#eb6572
+#ff8592
+
+5.8 => 7.18
+#6199ef
+#6badff
+
+7.72 => 7.11
+#72c369
+#6ebb65
+
+6.77 => 7.24
+#d19a66
+#d7a069
+
+15.62 => 7.3
+#F8F8F0
+#acaca4
+
+3.4 => 7.17
+#75715E
+#b2aa8d
+
+3.29 => 7.26
+#676f7d
+#9cacc8
+
+16.67 => 7.09
+#ffffff
+#a9a9a9
+
 ```

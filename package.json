@@ -1,7 +1,7 @@
 {
   "name": "tokyo-i3",
   "displayName": "Tokyo i3",
-  "description": "Dark default workbench based on tokyo-night",
+  "description": "VSCode theme follows the Web Content Accessibility Guidelines (WCAG) 2.0",
   "version": "0.1.0",
   "publisher": "i3acksp4ce",
   "engines": {
