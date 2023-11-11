@@ -130,7 +130,7 @@
       "foreground": "#7dcfff"
     },
     "variable.constant": {
-      "foreground": "#e08f68"
+      "foreground": "#e8966f"
     },
     "variable.defaultLibrary": {
       "foreground": "#dec76e"
@@ -141,7 +141,7 @@
       "name": "Comment",
       "scope": ["comment", "string.comment"],
       "settings": {
-        "foreground": "#545964"
+        "foreground": "#a4aab6"
       }
     },
     {
@@ -155,7 +155,7 @@
       "name": "Number",
       "scope": "constant.numeric",
       "settings": {
-        "foreground": "#c678dd"
+        "foreground": "#DB8BF2"
       }
     },
     {
@@ -167,7 +167,7 @@
         "punctuation.section.embedded"
       ],
       "settings": {
-        "foreground": "#c678dd"
+        "foreground": "#DB8BF2"
       }
     },
     {
@@ -204,7 +204,7 @@
       "name": "Language Variable",
       "scope": "variable.language",
       "settings": {
-        "foreground": "#eb6572"
+        "foreground": "#ff8590"
       }
     },
     {
@@ -215,21 +215,21 @@
         "keyword.operator.constructor"
       ],
       "settings": {
-        "foreground": "#eb6572"
+        "foreground": "#ff8590"
       }
     },
     {
       "name": "Keyword Operator",
       "scope": "keyword.operator",
       "settings": {
-        "foreground": "#eb6572"
+        "foreground": "#ff8590"
       }
     },
     {
       "name": "Storage",
       "scope": "storage",
       "settings": {
-        "foreground": "#eb6572"
+        "foreground": "#ff8590"
       }
     },
     {
@@ -249,7 +249,7 @@
         "support.class"
       ],
       "settings": {
-        "foreground": "#6199ef"
+        "foreground": "#77acff"
       }
     },
     {
@@ -265,7 +265,7 @@
         "variable.readwrite.other.block"
       ],
       "settings": {
-        "foreground": "#6199ef"
+        "foreground": "#77acff"
       }
     },
     {
@@ -290,7 +290,7 @@
       "name": "Package Import",
       "scope": ["storage.modifier.import", "storage.modifier.package"],
       "settings": {
-        "foreground": "#6199ef"
+        "foreground": "#77acff"
       }
     },
     {
@@ -309,7 +309,7 @@
       ],
       "settings": {
         "fontStyle": "italic",
-        "foreground": "#d19a66"
+        "foreground": "#d69f6b"
       }
     },
     {
@@ -330,7 +330,7 @@
       "name": "Tag Name",
       "scope": ["entity.name.tag", "entity.name.tag.class.js"],
       "settings": {
-        "foreground": "#eb6572"
+        "foreground": "#ff8590"
       }
     },
     {
@@ -436,7 +436,7 @@
       "name": "StyleSheet Unit",
       "scope": ["unit.css", "unit.scss", "unit.less", "unit.sass"],
       "settings": {
-        "foreground": "#c678dd"
+        "foreground": "#DB8BF2"
       }
     },
     {
@@ -462,7 +462,7 @@
       "name": "Invalid",
       "scope": "invalid",
       "settings": {
-        "background": "#c678dd",
+        "background": "#DB8BF2",
         "foreground": "#F8F8F0"
       }
     },
@@ -482,24 +482,31 @@
       }
     },
     {
+      "name": "JSON String",
+      "scope": ["constant.language.json"],
+      "settings": {
+        "foreground": "#DB8BF2"
+      }
+    },
+    {
       "name": "Link",
       "scope": "string.detected-link",
       "settings": {
-        "foreground": "#6199ef"
+        "foreground": "#77acff"
       }
     },
     {
       "name": "diff.header",
       "scope": ["meta.diff", "meta.diff.header"],
       "settings": {
-        "foreground": "#75715E"
+        "foreground": "#b0ac97"
       }
     },
     {
       "name": "diff.deleted",
       "scope": "markup.deleted",
       "settings": {
-        "foreground": "#eb6572"
+        "foreground": "#ff8590"
       }
     },
     {
@@ -543,7 +550,7 @@
         "punctuation.definition.heading.markdown"
       ],
       "settings": {
-        "foreground": "#676f7d"
+        "foreground": "#a3acbb"
       }
     },
     {
@@ -557,7 +564,7 @@
       "name": "Markdown: Link",
       "scope": "markup.underline.link.markdown",
       "settings": {
-        "foreground": "#6199ef"
+        "foreground": "#77acff"
       }
     },
     {
@@ -572,7 +579,7 @@
       "scope": "markup.heading.markdown",
       "settings": {
         "fontStyle": "bold",
-        "foreground": "#eb6572"
+        "foreground": "#ff8590"
       }
     },
     {
@@ -586,7 +593,7 @@
       "name": "Markup: Separator",
       "scope": "meta.separator.markdown",
       "settings": {
-        "foreground": "#c678dd",
+        "foreground": "#DB8BF2",
         "fontStyle": "bold"
       }
     },
