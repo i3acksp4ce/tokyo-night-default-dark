@@ -1,11 +1,11 @@
 {
-  "name": "tokyo-night-default-dark",
-  "displayName": "Tokyo Night Default Dark",
+  "name": "tokyo-i3",
+  "displayName": "Tokyo i3",
   "description": "Dark default workbench based on tokyo-night",
-  "version": "0.0.3",
+  "version": "0.1.0",
   "publisher": "i3acksp4ce",
   "engines": {
-    "vscode": "^1.72.0"
+    "vscode": "^1.84.2"
   },
   "categories": [
     "Themes"
@@ -13,9 +13,9 @@
   "contributes": {
     "themes": [
       {
-        "label": "Tokyo Night Default Dark",
+        "label": "Tokyo i3 Dark Modern",
         "uiTheme": "vs-dark",
-        "path": "./themes/Tokyo Night Default Dark-color-theme.json"
+        "path": "./themes/dark-moden.json"
       }
     ]
   }
