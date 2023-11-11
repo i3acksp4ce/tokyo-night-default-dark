@@ -26,6 +26,11 @@
         "label": "Tokyo i3 IDX",
         "uiTheme": "vs-dark",
         "path": "./themes/idx.json"
+      },
+      {
+        "label": "Tokyo i3 Github Dark Default",
+        "uiTheme": "vs-dark",
+        "path": "./themes/github-dark-default.json"
       }
     ]
   }
