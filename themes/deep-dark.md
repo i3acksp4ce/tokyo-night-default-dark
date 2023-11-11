@@ -5,26 +5,26 @@ https://www.learnui.design/tools/accessible-color-generator.html
 #### background color
 
 ```
-#1e1e1e
+#141414
 ```
 
 #### foreground color
 
 ```
 #7dcfff =>
-#e08f68 => #e8966f
+#e08f68 =>
 #dec76e =>
-#545964 => #a4aab6
+#545964 => #9ba0ac
 #e5c07b =>
-#c678dd => #DB8BF2
+#c678dd => #d082e7
 #accfd7 =>
-#36c0c0 => #36c0c0
-#eb6572 =>
-#6199ef => #77acff
+#36c0c0 =>
+#eb6572 => #ff7682
+#6199ef => #6ca2fa
 #72c369 =>
-#d19a66 => #d69f6b
+#d19a66 =>
 #F8F8F0 =>
-#75715E => #b0ac97
-#676f7d => #a3acbb
+#75715E => #a7a28d
+#676f7d => #9aa2b1
 #ffffff =>
 ```

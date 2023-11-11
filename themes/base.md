@@ -12,19 +12,19 @@ https://www.learnui.design/tools/accessible-color-generator.html
 
 ```
 #7dcfff =>
-#e08f68 => #e8966f
+#e08f68 =>
 #dec76e =>
-#545964 => #a4aab6
+#545964 =>
 #e5c07b =>
-#c678dd => #DB8BF2
+#c678dd =>
 #accfd7 =>
-#36c0c0 => #36c0c0
+#36c0c0 =>
 #eb6572 =>
-#6199ef => #77acff
+#6199ef =>
 #72c369 =>
-#d19a66 => #d69f6b
+#d19a66 =>
 #F8F8F0 =>
-#75715E => #b0ac97
-#676f7d => #a3acbb
+#75715E =>
+#676f7d =>
 #ffffff =>
 ```

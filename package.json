@@ -16,6 +16,11 @@
         "label": "Tokyo i3 Dark Modern",
         "uiTheme": "vs-dark",
         "path": "./themes/dark-moden.json"
+      },
+      {
+        "label": "Tokyo i3 Deep Dark",
+        "uiTheme": "vs-dark",
+        "path": "./themes/deep-dark.json"
       }
     ]
   }
