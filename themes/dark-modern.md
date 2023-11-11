@@ -1,66 +1,82 @@
 ```
-9.72 => 7.16
+luminance 0.56 => 0.50
+contrast 9.61 => 8.68
 #7dcfff
-#6eb1df
+#77c5f2
 
-6.59 => 7.22
+luminance 0.36 => 0.42
+contrast 6.51 => 7.4
 #e08f68
-#ec956e
+#f09870
 
-9.92 => 7.21
+luminance 0.58 => 0.50
+contrast 9.81 => 8.67
 #dec76e
-#c0a95f
+#d2bb68
 
-2.37 => 7.32
+luminance 0.10 => 0.43
+contrast 2.35 => 7.57
 #545964
-#a2acc2
+#a6b0c6
 
-9.65 => 7.16
+luminance 0.56 => 0.50
+contrast 9.54 => 8.7
 #e5c07b
-#c9a46d
+#dcb776
 
-5.66 => 7.15
+luminance 0.31 => 0.43
+contrast 5.6 => 7.52
 #c678dd
-#e286f9
+#ea8aff
 
-10.05 => 7.16
+luminance 0.58 => 0.50
+contrast 9.94 => 8.67
 #accfd7
-#91afb7
+#9fc2ca
 
-7.51 => 7.2
+luminance 0.42 => 0.42
+contrast 7.42 => 7.42
 #36c0c0
-#34bcbc
+#36c0c0
 
-5.27 => 7.16
+luminance 0.28 => 0.43
+contrast 5.21 => 7.5
 #eb6572
-#ff8592
+#ff8d9e
 
-5.8 => 7.18
+luminance 0.32 => 0.43
+contrast 5.74 => 7.5
 #6199ef
-#6badff
+#6eb3ff
 
-7.72 => 7.11
+luminance 0.44 => 0.44
+contrast 7.63 => 7.63
 #72c369
-#6ebb65
+#72c369
 
-6.77 => 7.24
+luminance 0.38 => 0.43
+contrast 6.69 => 7.59
 #d19a66
-#d7a069
+#dda56c
 
-15.62 => 7.3
+luminance 0.93 => 0.50
+contrast 15.44 => 8.63
 #F8F8F0
-#acaca4
+#bcbcb5
 
-3.4 => 7.17
+luminance 0.16 => 0.43
+contrast 3.36 => 7.58
 #75715E
-#b2aa8d
+#b8b090
 
-3.29 => 7.26
+luminance 0.16 => 0.43
+contrast 3.25 => 7.59
 #676f7d
-#9cacc8
+#a1b1cc
 
-16.67 => 7.09
+luminance 1.00 => 0.50
+contrast 16.48 => 8.68
 #ffffff
-#a9a9a9
+#bcbcbc
 
 ```
