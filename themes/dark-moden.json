@@ -204,7 +204,7 @@
       "name": "Language Variable",
       "scope": "variable.language",
       "settings": {
-        "foreground": "#ff8590"
+        "foreground": "#ff838d"
       }
     },
     {
@@ -215,21 +215,21 @@
         "keyword.operator.constructor"
       ],
       "settings": {
-        "foreground": "#ff8590"
+        "foreground": "#ff838d"
       }
     },
     {
       "name": "Keyword Operator",
       "scope": "keyword.operator",
       "settings": {
-        "foreground": "#ff8590"
+        "foreground": "#ff838d"
       }
     },
     {
       "name": "Storage",
       "scope": "storage",
       "settings": {
-        "foreground": "#ff8590"
+        "foreground": "#ff838d"
       }
     },
     {
@@ -330,7 +330,7 @@
       "name": "Tag Name",
       "scope": ["entity.name.tag", "entity.name.tag.class.js"],
       "settings": {
-        "foreground": "#ff8590"
+        "foreground": "#ff838d"
       }
     },
     {
@@ -506,7 +506,7 @@
       "name": "diff.deleted",
       "scope": "markup.deleted",
       "settings": {
-        "foreground": "#ff8590"
+        "foreground": "#ff838d"
       }
     },
     {
@@ -579,7 +579,7 @@
       "scope": "markup.heading.markdown",
       "settings": {
         "fontStyle": "bold",
-        "foreground": "#ff8590"
+        "foreground": "#ff838d"
       }
     },
     {
