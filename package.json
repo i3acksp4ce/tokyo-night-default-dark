@@ -3,7 +3,7 @@
   "displayName": "i3 Dark Theme",
   "description": "The VSCode Theme follows the Web Content Accessibility Guidelines (WCAG) 2.0",
   "icon": "icon.jpg",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "publisher": "i3acksp4ce",
   "keywords": [
     "dark theme",
@@ -12,7 +12,9 @@
     "night owl",
     "owl",
     "idx",
-    "deep dark"
+    "deep dark",
+    "dark plus",
+    "i3"
   ],
   "engines": {
     "vscode": "^1.84.2"
@@ -68,11 +70,6 @@
         "path": "./themes/owl-github-dark-default.json"
       },
       {
-        "label": "i3 Dark+ Github Dark Default",
-        "uiTheme": "vs-dark",
-        "path": "./themes/dark+-github-dark-default.json"
-      },
-      {
         "label": "i3 Dark+ Dark Modern",
         "uiTheme": "vs-dark",
         "path": "./themes/dark+-dark-moden.json"
@@ -86,6 +83,11 @@
         "label": "i3 Dark+ IDX",
         "uiTheme": "vs-dark",
         "path": "./themes/dark+-idx.json"
+      },
+      {
+        "label": "i3 Dark+ Github Dark Default",
+        "uiTheme": "vs-dark",
+        "path": "./themes/dark+-github-dark-default.json"
       }
     ]
   }

@@ -1,5 +1,9 @@
 # Change Log
 
+#### [0.1.1]
+
+- Add dark+ theme. Contrast ratio around 7.6 and luminance ratio 0.6 with saturate 10%
+
 #### [0.1.0]
 
 - Initial new release
