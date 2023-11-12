@@ -1,9 +1,18 @@
 {
-  "name": "tokyo-i3",
-  "displayName": "Tokyo i3",
-  "description": "Syntax highlight follows the Web Content Accessibility Guidelines (WCAG) 2.0",
+  "name": "i3-dark-theme",
+  "displayName": "i3 Dark Theme",
+  "description": "The VSCode Theme follows the Web Content Accessibility Guidelines (WCAG) 2.0",
   "version": "0.1.0",
   "publisher": "i3acksp4ce",
+  "keywords": [
+    "dark theme",
+    "tokyo",
+    "tokyo night",
+    "night owl",
+    "owl",
+    "idx",
+    "deep dark"
+  ],
   "engines": {
     "vscode": "^1.84.2"
   },
@@ -13,24 +22,44 @@
   "contributes": {
     "themes": [
       {
-        "label": "Tokyo i3 Dark Modern",
+        "label": "i3 Tokyo Dark Modern",
         "uiTheme": "vs-dark",
-        "path": "./themes/dark-moden.json"
+        "path": "./themes/tokyo-dark-moden.json"
       },
       {
-        "label": "Tokyo i3 Deep Dark",
+        "label": "i3 Tokyo Deep Dark",
         "uiTheme": "vs-dark",
-        "path": "./themes/deep-dark.json"
+        "path": "./themes/tokyo-deep-dark.json"
       },
       {
-        "label": "Tokyo i3 IDX",
+        "label": "i3 Tokyo IDX",
         "uiTheme": "vs-dark",
-        "path": "./themes/idx.json"
+        "path": "./themes/tokyo-idx.json"
       },
       {
-        "label": "Tokyo i3 Github Dark Default",
+        "label": "i3 Tokyo Github Dark Default",
         "uiTheme": "vs-dark",
-        "path": "./themes/github-dark-default.json"
+        "path": "./themes/tokyo-github-dark-default.json"
+      },
+      {
+        "label": "i3 Owl Dark Moden",
+        "uiTheme": "vs-dark",
+        "path": "./themes/owl-dark-moden.json"
+      },
+      {
+        "label": "i3 Owl Deep Dark",
+        "uiTheme": "vs-dark",
+        "path": "./themes/owl-deep-dark.json"
+      },
+      {
+        "label": "i3 Owl IDX",
+        "uiTheme": "vs-dark",
+        "path": "./themes/owl-idx.json"
+      },
+      {
+        "label": "i3 Owl Github Dark Default",
+        "uiTheme": "vs-dark",
+        "path": "./themes/owl-github-dark-default.json"
       }
     ]
   }
