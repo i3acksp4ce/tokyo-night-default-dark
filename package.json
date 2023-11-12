@@ -66,6 +66,26 @@
         "label": "i3 Owl Github Dark Default",
         "uiTheme": "vs-dark",
         "path": "./themes/owl-github-dark-default.json"
+      },
+      {
+        "label": "i3 Dark+ Github Dark Default",
+        "uiTheme": "vs-dark",
+        "path": "./themes/dark+-github-dark-default.json"
+      },
+      {
+        "label": "i3 Dark+ Dark Modern",
+        "uiTheme": "vs-dark",
+        "path": "./themes/dark+-dark-moden.json"
+      },
+      {
+        "label": "i3 Dark+ Deep Dark",
+        "uiTheme": "vs-dark",
+        "path": "./themes/dark+-deep-dark.json"
+      },
+      {
+        "label": "i3 Dark+ IDX",
+        "uiTheme": "vs-dark",
+        "path": "./themes/dark+-idx.json"
       }
     ]
   }

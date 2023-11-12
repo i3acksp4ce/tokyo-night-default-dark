@@ -1,7 +1,4 @@
 {
-  "name": "i3 Tokyo",
-  "type": "dark",
-  "colors": {},
   "semanticHighlighting": true,
   "semanticTokenColors": {
     "enumMember": {

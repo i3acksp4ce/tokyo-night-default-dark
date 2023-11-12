@@ -1,7 +1,4 @@
 {
-  "name": "i3 Owl",
-  "type": "dark",
-  "colors": {},
   "semanticHighlighting": true,
   "tokenColors": [
     {
