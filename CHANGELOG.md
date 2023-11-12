@@ -1,9 +1,8 @@
 # Change Log
 
-All notable changes to the "tokyo-night-default-dark" extension will be documented in this file.
+#### [0.1.0]
 
-Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how to structure this file.
-
-## [Unreleased]
-
-- Initial release
+- Initial new release
+- Refactor color theme
+- Follow the Web Content Accessibility Guidelines (WCAG) 2.0
+- Contrast score around 7.05 and luminance score 0.5

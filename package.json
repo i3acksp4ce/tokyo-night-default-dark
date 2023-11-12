@@ -2,6 +2,7 @@
   "name": "i3-dark-theme",
   "displayName": "i3 Dark Theme",
   "description": "The VSCode Theme follows the Web Content Accessibility Guidelines (WCAG) 2.0",
+  "icon": "icon.jpg",
   "version": "0.1.0",
   "publisher": "i3acksp4ce",
   "keywords": [
@@ -15,6 +16,11 @@
   ],
   "engines": {
     "vscode": "^1.84.2"
+  },
+  "scripts": {
+    "package": "vsce package",
+    "publish": "vsce publish",
+    "publish-minor": "vsce publish --minor"
   },
   "categories": [
     "Themes"
