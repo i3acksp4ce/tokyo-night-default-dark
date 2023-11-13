@@ -1,5 +1,5 @@
 {
-  "name": "Monokai Idx",
+  "name": "Monokai IDX",
   "type": "dark",
   "include": "../editor/idx.json",
   "semanticHighlighting": true,

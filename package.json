@@ -71,7 +71,7 @@
       {
         "label": "i3 Monokai Dark Modern",
         "uiTheme": "vs-dark",
-        "path": "./themes/monokai-dark-moden.json"
+        "path": "./themes/monokai-dark-modern.json"
       },
       {
         "label": "i3 Monokai Deep Dark",
@@ -87,6 +87,26 @@
         "label": "i3 Monokai Github Dark Default",
         "uiTheme": "vs-dark",
         "path": "./themes/monokai-github-dark-default.json"
+      },
+      {
+        "label": "i3 Garnet Dark Modern",
+        "uiTheme": "vs-dark",
+        "path": "./themes/garnet-dark-modern.json"
+      },
+      {
+        "label": "i3 Garnet Deep Dark",
+        "uiTheme": "vs-dark",
+        "path": "./themes/garnet-deep-dark.json"
+      },
+      {
+        "label": "i3 Garnet IDX",
+        "uiTheme": "vs-dark",
+        "path": "./themes/garnet-idx.json"
+      },
+      {
+        "label": "i3 Garnet Github Dark Default",
+        "uiTheme": "vs-dark",
+        "path": "./themes/garnet-github-dark-default.json"
       }
     ]
   }
