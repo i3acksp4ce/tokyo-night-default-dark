@@ -9,8 +9,7 @@
     "dark theme",
     "tokyo",
     "tokyo night",
-    "night owl",
-    "owl",
+    "monokai",
     "idx",
     "deep dark",
     "dark plus",
@@ -50,26 +49,6 @@
         "path": "./themes/tokyo-github-dark-default.json"
       },
       {
-        "label": "i3 Owl Dark Moden",
-        "uiTheme": "vs-dark",
-        "path": "./themes/owl-dark-moden.json"
-      },
-      {
-        "label": "i3 Owl Deep Dark",
-        "uiTheme": "vs-dark",
-        "path": "./themes/owl-deep-dark.json"
-      },
-      {
-        "label": "i3 Owl IDX",
-        "uiTheme": "vs-dark",
-        "path": "./themes/owl-idx.json"
-      },
-      {
-        "label": "i3 Owl Github Dark Default",
-        "uiTheme": "vs-dark",
-        "path": "./themes/owl-github-dark-default.json"
-      },
-      {
         "label": "i3 Dark+ Dark Modern",
         "uiTheme": "vs-dark",
         "path": "./themes/dark+-dark-moden.json"
@@ -88,6 +67,26 @@
         "label": "i3 Dark+ Github Dark Default",
         "uiTheme": "vs-dark",
         "path": "./themes/dark+-github-dark-default.json"
+      },
+      {
+        "label": "i3 Monokai Dark Modern",
+        "uiTheme": "vs-dark",
+        "path": "./themes/monokai-dark-moden.json"
+      },
+      {
+        "label": "i3 Monokai Deep Dark",
+        "uiTheme": "vs-dark",
+        "path": "./themes/monokai-deep-dark.json"
+      },
+      {
+        "label": "i3 Monokai IDX",
+        "uiTheme": "vs-dark",
+        "path": "./themes/monokai-idx.json"
+      },
+      {
+        "label": "i3 Monokai Github Dark Default",
+        "uiTheme": "vs-dark",
+        "path": "./themes/monokai-github-dark-default.json"
       }
     ]
   }
