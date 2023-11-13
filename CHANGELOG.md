@@ -1,5 +1,9 @@
 # Change Log
 
+#### [0.1.2]
+
+- Add saturate 10% to tokyo theme
+
 #### [0.1.1]
 
 - Add dark+ theme. Contrast ratio around 7.6 and luminance ratio 0.6 with saturate 10%

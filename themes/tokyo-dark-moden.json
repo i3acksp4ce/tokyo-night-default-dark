@@ -4,25 +4,25 @@
   "include": "../base/dark-modern.json",
   "semanticHighlighting": true,
   "semanticTokenColors": {
-    "enumMember": { "foreground": "#77c5f2" },
-    "variable.constant": { "foreground": "#ec956e" },
-    "variable.defaultLibrary": { "foreground": "#d2bb68" }
+    "enumMember": { "foreground": "#73c6f6" },
+    "variable.constant": { "foreground": "#f0936a" },
+    "variable.defaultLibrary": { "foreground": "#d7be63" }
   },
   "tokenColors": [
     {
       "name": "Comment",
       "scope": ["comment", "string.comment"],
-      "settings": { "foreground": "#9fa8be" }
+      "settings": { "foreground": "#9aa6c2" }
     },
     {
       "name": "String",
       "scope": ["string", "string.template"],
-      "settings": { "foreground": "#dcb776" }
+      "settings": { "foreground": "#e0b872" }
     },
     {
       "name": "Number",
       "scope": "constant.numeric",
-      "settings": { "foreground": "#e286f9" }
+      "settings": { "foreground": "#e483fc" }
     },
     {
       "name": "Embedded String Begin/End",
@@ -32,7 +32,7 @@
         "punctuation.definition.template-expression",
         "punctuation.section.embedded"
       ],
-      "settings": { "foreground": "#e286f9" }
+      "settings": { "foreground": "#e483fc" }
     },
     {
       "name": "Default Embedded Color",
@@ -46,17 +46,17 @@
         "punctuation.accessor",
         "meta.brace"
       ],
-      "settings": { "foreground": "#9fc2ca" }
+      "settings": { "foreground": "#9bc4ce" }
     },
     {
       "name": "Built-in constant",
       "scope": "constant.language",
-      "settings": { "foreground": "#34bcbc" }
+      "settings": { "foreground": "#2ec2c2" }
     },
     {
       "name": "User-defined constant",
       "scope": ["constant.character", "constant.other"],
-      "settings": { "foreground": "#34bcbc" }
+      "settings": { "foreground": "#2ec2c2" }
     },
     {
       "name": "Language Variable",
@@ -85,7 +85,7 @@
     {
       "name": "Types",
       "scope": "storage.type",
-      "settings": { "foreground": "#34bcbc" }
+      "settings": { "foreground": "#2ec2c2" }
     },
     {
       "name": "Class",
@@ -119,12 +119,12 @@
         "variable.other.property",
         "variable.other.block"
       ],
-      "settings": { "foreground": "#9fc2ca" }
+      "settings": { "foreground": "#9bc4ce" }
     },
     {
       "name": "Inherited Class",
       "scope": "entity.other.inherited-class",
-      "settings": { "foreground": "#6ebb65" }
+      "settings": { "foreground": "#6ac15f" }
     },
     {
       "name": "Package Import",
@@ -134,7 +134,7 @@
     {
       "name": "Function name",
       "scope": ["entity.name.function", "support.function"],
-      "settings": { "foreground": "#6ebb65" }
+      "settings": { "foreground": "#6ac15f" }
     },
     {
       "name": "Function argument",
@@ -143,17 +143,17 @@
         "entity.name.variable.parameter",
         "parameter.variable"
       ],
-      "settings": { "fontStyle": "italic", "foreground": "#d59e68" }
+      "settings": { "fontStyle": "italic", "foreground": "#da9e63" }
     },
     {
       "name": "Function call",
       "scope": "entity.name.function-call",
-      "settings": { "foreground": "#9fc2ca" }
+      "settings": { "foreground": "#9bc4ce" }
     },
     {
       "name": "Builtin Functions",
       "scope": ["function.support.builtin", "function.support.core"],
-      "settings": { "foreground": "#6ebb65" }
+      "settings": { "foreground": "#6ac15f" }
     },
     {
       "name": "Tag Name",
@@ -163,27 +163,27 @@
     {
       "name": "Tag Class and ID",
       "scope": ["entity.name.tag.class", "entity.name.tag.id"],
-      "settings": { "foreground": "#34bcbc" }
+      "settings": { "foreground": "#2ec2c2" }
     },
     {
       "name": "Tag Attribute",
       "scope": "entity.other.attribute-name",
-      "settings": { "foreground": "#6ebb65" }
+      "settings": { "foreground": "#6ac15f" }
     },
     {
       "name": "Library constant",
       "scope": "support.constant",
-      "settings": { "foreground": "#34bcbc" }
+      "settings": { "foreground": "#2ec2c2" }
     },
     {
       "name": "Library class/type",
       "scope": ["support.type", "support.variable"],
-      "settings": { "foreground": "#34bcbc" }
+      "settings": { "foreground": "#2ec2c2" }
     },
     {
       "name": "Json Property",
       "scope": "support.dictionary.json",
-      "settings": { "foreground": "#34bcbc" }
+      "settings": { "foreground": "#2ec2c2" }
     },
     {
       "name": "StyleSheet Property name",
@@ -193,7 +193,7 @@
         "support.type.property-name.less",
         "support.type.property-name.sass"
       ],
-      "settings": { "foreground": "#9fc2ca" }
+      "settings": { "foreground": "#9bc4ce" }
     },
     {
       "name": "CSS: Pseudo Attribute Names",
@@ -207,7 +207,7 @@
         "entity.other.attribute-name.pseudo-element.less",
         "entity.other.attribute-name.pseudo-element.sass"
       ],
-      "settings": { "foreground": "#34bcbc" }
+      "settings": { "foreground": "#2ec2c2" }
     },
     {
       "name": "StyleSheet Property value",
@@ -217,7 +217,7 @@
         "support.constant.less",
         "support.constant.sass"
       ],
-      "settings": { "foreground": "#6ebb65" }
+      "settings": { "foreground": "#6ac15f" }
     },
     {
       "name": "StyleSheet Variable",
@@ -227,7 +227,7 @@
         "variable.less",
         "variable.sass"
       ],
-      "settings": { "foreground": "#34bcbc" }
+      "settings": { "foreground": "#2ec2c2" }
     },
     {
       "name": "StyleSheet Variable String",
@@ -237,12 +237,12 @@
         "variable.less.string",
         "variable.sass.string"
       ],
-      "settings": { "foreground": "#dcb776" }
+      "settings": { "foreground": "#e0b872" }
     },
     {
       "name": "StyleSheet Unit",
       "scope": ["unit.css", "unit.scss", "unit.less", "unit.sass"],
-      "settings": { "foreground": "#e286f9" }
+      "settings": { "foreground": "#e483fc" }
     },
     {
       "name": "StyleSheet Function",
@@ -252,7 +252,7 @@
         "function.less",
         "function.sass"
       ],
-      "settings": { "foreground": "#34bcbc" }
+      "settings": { "foreground": "#2ec2c2" }
     },
     {
       "name": "Library variable",
@@ -262,22 +262,22 @@
     {
       "name": "Invalid",
       "scope": "invalid",
-      "settings": { "background": "#e286f9", "foreground": "#bcbcb5" }
+      "settings": { "background": "#e483fc", "foreground": "#c0c0b1" }
     },
     {
       "name": "Invalid deprecated",
       "scope": "invalid.deprecated",
-      "settings": { "background": "#34bcbc", "foreground": "#bcbcb5" }
+      "settings": { "background": "#2ec2c2", "foreground": "#c0c0b1" }
     },
     {
       "name": "JSON String",
       "scope": "support.type.property-name.json",
-      "settings": { "foreground": "#34bcbc" }
+      "settings": { "foreground": "#2ec2c2" }
     },
     {
       "name": "JSON String",
       "scope": ["constant.language.json"],
-      "settings": { "foreground": "#db8bf2" }
+      "settings": { "foreground": "#de88f6" }
     },
     {
       "name": "Link",
@@ -287,7 +287,7 @@
     {
       "name": "diff.header",
       "scope": ["meta.diff", "meta.diff.header"],
-      "settings": { "foreground": "#b0a88c" }
+      "settings": { "foreground": "#b5ab87" }
     },
     {
       "name": "diff.deleted",
@@ -297,20 +297,20 @@
     {
       "name": "diff.inserted",
       "scope": "markup.inserted",
-      "settings": { "foreground": "#6ebb65" }
+      "settings": { "foreground": "#6ac15f" }
     },
     {
       "name": "diff.changed",
       "scope": "markup.changed",
-      "settings": { "foreground": "#dcb776" }
+      "settings": { "foreground": "#e0b872" }
     },
     {
       "scope": "constant.numeric.line-number.find-in-files - match",
-      "settings": { "foreground": "#34bcbc" }
+      "settings": { "foreground": "#2ec2c2" }
     },
     {
       "scope": "entity.name.filename.find-in-files",
-      "settings": { "foreground": "#dcb776" }
+      "settings": { "foreground": "#e0b872" }
     },
     {
       "name": "Markup: Emphasis",
@@ -324,7 +324,7 @@
         "punctuation.definition.bold.markdown",
         "punctuation.definition.heading.markdown"
       ],
-      "settings": { "foreground": "#9cacc8" }
+      "settings": { "foreground": "#98abcc" }
     },
     {
       "name": "Markup: Emphasis Punctuation",
@@ -349,22 +349,22 @@
     {
       "name": "Markup: Quote",
       "scope": "markup.quote.markdown",
-      "settings": { "foreground": "#6ebb65" }
+      "settings": { "foreground": "#6ac15f" }
     },
     {
       "name": "Markup: Separator",
       "scope": "meta.separator.markdown",
-      "settings": { "foreground": "#e286f9", "fontStyle": "bold" }
+      "settings": { "foreground": "#e483fc", "fontStyle": "bold" }
     },
     {
       "name": "Markup: Raw",
       "scope": ["markup.raw.inline.markdown", "markup.raw.block.markdown"],
-      "settings": { "foreground": "#34bcbc" }
+      "settings": { "foreground": "#2ec2c2" }
     },
     {
       "name": "Markup: List Punctuation",
       "scope": "punctuation.definition.list_item.markdown",
-      "settings": { "fontStyle": "bold", "foreground": "#bcbcbc" }
+      "settings": { "fontStyle": "bold", "foreground": "#bfb9b9" }
     }
   ]
 }
