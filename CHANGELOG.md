@@ -1,5 +1,10 @@
 # Change Log
 
+#### [0.2.0]
+
+- Refactor all color themes
+- Add more themes
+
 #### [0.1.2]
 
 - Add saturate 10% to tokyo theme
