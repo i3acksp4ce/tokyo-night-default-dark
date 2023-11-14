@@ -1,5 +1,9 @@
 # Change Log
 
+#### [0.3.1]
+
+- Fix Github Color
+
 #### [0.3.0]
 
 - Decrease Brightness all color themes (brightness 5% to 3%)

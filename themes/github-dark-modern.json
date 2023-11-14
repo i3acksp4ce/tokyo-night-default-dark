@@ -50,7 +50,7 @@
     { "scope": ["entity.name.tag"], "settings": { "foreground": "#82f38c" } },
     {
       "scope": ["support.class.component"],
-      "settings": { "foreground": "#81c8ff" }
+      "settings": { "foreground": "#82f38c" }
     },
     { "scope": "keyword", "settings": { "foreground": "#ff837a" } },
     {
