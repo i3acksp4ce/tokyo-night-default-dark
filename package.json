@@ -131,6 +131,26 @@
         "label": "i3 One Dark Github Dark Default",
         "uiTheme": "vs-dark",
         "path": "./themes/one-dark-github-dark-default.json"
+      },
+      {
+        "label": "i3 Material Dark Modern",
+        "uiTheme": "vs-dark",
+        "path": "./themes/material-dark-modern.json"
+      },
+      {
+        "label": "i3 Material Deep Dark",
+        "uiTheme": "vs-dark",
+        "path": "./themes/material-deep-dark.json"
+      },
+      {
+        "label": "i3 Material IDX",
+        "uiTheme": "vs-dark",
+        "path": "./themes/material-idx.json"
+      },
+      {
+        "label": "i3 Material Github Dark Default",
+        "uiTheme": "vs-dark",
+        "path": "./themes/material-github-dark-default.json"
       }
     ]
   }
