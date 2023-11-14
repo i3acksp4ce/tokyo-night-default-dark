@@ -47,9 +47,10 @@
       "scope": "entity.name.function",
       "settings": { "foreground": "#dab0ff" }
     },
+    { "scope": ["entity.name.tag"], "settings": { "foreground": "#82f38c" } },
     {
-      "scope": ["entity.name.tag", "support.class.component"],
-      "settings": { "foreground": "#82f38c" }
+      "scope": ["support.class.component"],
+      "settings": { "foreground": "#81c8ff" }
     },
     { "scope": "keyword", "settings": { "foreground": "#ff837a" } },
     {

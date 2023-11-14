@@ -56,9 +56,15 @@
       }
     },
     {
-      "scope": ["entity.name.tag", "support.class.component"],
+      "scope": ["entity.name.tag"],
       "settings": {
         "foreground": "#7ee787"
+      }
+    },
+    {
+      "scope": ["support.class.component"],
+      "settings": {
+        "foreground": "#79c0ff"
       }
     },
     {
