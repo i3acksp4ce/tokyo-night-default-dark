@@ -3,7 +3,7 @@
   "displayName": "i3 Dark Theme",
   "description": "The VSCode Theme follows the Web Content Accessibility Guidelines (WCAG) 2.0",
   "icon": "icon.jpg",
-  "version": "0.2.0",
+  "version": "0.3.0",
   "publisher": "i3acksp4ce",
   "keywords": [
     "dark theme",
@@ -35,7 +35,7 @@
       {
         "label": "i3 Tokyo Dark Modern",
         "uiTheme": "vs-dark",
-        "path": "./themes/tokyo-dark-moden.json"
+        "path": "./themes/tokyo-dark-modern.json"
       },
       {
         "label": "i3 Tokyo Deep Dark",
@@ -55,7 +55,7 @@
       {
         "label": "i3 Dark+ Dark Modern",
         "uiTheme": "vs-dark",
-        "path": "./themes/dark+-dark-moden.json"
+        "path": "./themes/dark+-dark-modern.json"
       },
       {
         "label": "i3 Dark+ Deep Dark",
@@ -151,6 +151,26 @@
         "label": "i3 Material Github Dark Default",
         "uiTheme": "vs-dark",
         "path": "./themes/material-github-dark-default.json"
+      },
+      {
+        "label": "i3 Github Dark Modern",
+        "uiTheme": "vs-dark",
+        "path": "./themes/github-dark-modern.json"
+      },
+      {
+        "label": "i3 Github Deep Dark",
+        "uiTheme": "vs-dark",
+        "path": "./themes/github-deep-dark.json"
+      },
+      {
+        "label": "i3 Github IDX",
+        "uiTheme": "vs-dark",
+        "path": "./themes/github-idx.json"
+      },
+      {
+        "label": "i3 Github Github Dark Default",
+        "uiTheme": "vs-dark",
+        "path": "./themes/github-github-dark-default.json"
       }
     ]
   }

@@ -1,5 +1,10 @@
 # Change Log
 
+#### [0.3.0]
+
+- Decrease Brightness all color themes (brightness 5% to 3%)
+- Add more themes
+
 #### [0.2.0]
 
 - Refactor all color themes
