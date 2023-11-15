@@ -1,5 +1,11 @@
 # Change Log
 
+#### [0.3.2]
+
+- Remove all Dark Modern workbench
+- Add Moonlight
+- More darken idx workbench
+
 #### [0.3.1]
 
 - Fix Github Color

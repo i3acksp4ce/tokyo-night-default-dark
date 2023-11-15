@@ -3,9 +3,10 @@
   "displayName": "i3 Dark Theme",
   "description": "The VSCode Theme follows the Web Content Accessibility Guidelines (WCAG) 2.0",
   "icon": "icon.jpg",
-  "version": "0.3.1",
+  "version": "0.3.2",
   "publisher": "i3acksp4ce",
   "keywords": [
+    "i3",
     "dark theme",
     "tokyo",
     "tokyo night",
@@ -14,10 +15,10 @@
     "garnet",
     "one dark",
     "deep dark",
-    "dark plus",
     "github dark",
     "github",
-    "i3"
+    "moonlight",
+    "garnet"
   ],
   "engines": {
     "vscode": "^1.84.2"
@@ -136,6 +137,21 @@
         "label": "i3 Github Github Dark Default",
         "uiTheme": "vs-dark",
         "path": "./themes/github-github-dark-default.json"
+      },
+      {
+        "label": "i3 Moonlight Deep Dark",
+        "uiTheme": "vs-dark",
+        "path": "./themes/moonlight-deep-dark.json"
+      },
+      {
+        "label": "i3 Moonlight Github Dark Default",
+        "uiTheme": "vs-dark",
+        "path": "./themes/moonlight-github-dark-default.json"
+      },
+      {
+        "label": "i3 Moonlight IDX",
+        "uiTheme": "vs-dark",
+        "path": "./themes/moonlight-idx.json"
       }
     ]
   }
