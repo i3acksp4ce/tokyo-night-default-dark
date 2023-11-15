@@ -33,11 +33,6 @@
   "contributes": {
     "themes": [
       {
-        "label": "i3 Tokyo Dark Modern",
-        "uiTheme": "vs-dark",
-        "path": "./themes/tokyo-dark-modern.json"
-      },
-      {
         "label": "i3 Tokyo Deep Dark",
         "uiTheme": "vs-dark",
         "path": "./themes/tokyo-deep-dark.json"
@@ -51,11 +46,6 @@
         "label": "i3 Tokyo Github Dark Default",
         "uiTheme": "vs-dark",
         "path": "./themes/tokyo-github-dark-default.json"
-      },
-      {
-        "label": "i3 Dark+ Dark Modern",
-        "uiTheme": "vs-dark",
-        "path": "./themes/dark+-dark-modern.json"
       },
       {
         "label": "i3 Dark+ Deep Dark",
@@ -73,11 +63,6 @@
         "path": "./themes/dark+-github-dark-default.json"
       },
       {
-        "label": "i3 Monokai Dark Modern",
-        "uiTheme": "vs-dark",
-        "path": "./themes/monokai-dark-modern.json"
-      },
-      {
         "label": "i3 Monokai Deep Dark",
         "uiTheme": "vs-dark",
         "path": "./themes/monokai-deep-dark.json"
@@ -91,11 +76,6 @@
         "label": "i3 Monokai Github Dark Default",
         "uiTheme": "vs-dark",
         "path": "./themes/monokai-github-dark-default.json"
-      },
-      {
-        "label": "i3 Garnet Dark Modern",
-        "uiTheme": "vs-dark",
-        "path": "./themes/garnet-dark-modern.json"
       },
       {
         "label": "i3 Garnet Deep Dark",
@@ -113,11 +93,6 @@
         "path": "./themes/garnet-github-dark-default.json"
       },
       {
-        "label": "i3 One Dark Dark Modern",
-        "uiTheme": "vs-dark",
-        "path": "./themes/one-dark-dark-modern.json"
-      },
-      {
         "label": "i3 One Dark Deep Dark",
         "uiTheme": "vs-dark",
         "path": "./themes/one-dark-deep-dark.json"
@@ -133,11 +108,6 @@
         "path": "./themes/one-dark-github-dark-default.json"
       },
       {
-        "label": "i3 Material Dark Modern",
-        "uiTheme": "vs-dark",
-        "path": "./themes/material-dark-modern.json"
-      },
-      {
         "label": "i3 Material Deep Dark",
         "uiTheme": "vs-dark",
         "path": "./themes/material-deep-dark.json"
@@ -151,11 +121,6 @@
         "label": "i3 Material Github Dark Default",
         "uiTheme": "vs-dark",
         "path": "./themes/material-github-dark-default.json"
-      },
-      {
-        "label": "i3 Github Dark Modern",
-        "uiTheme": "vs-dark",
-        "path": "./themes/github-dark-modern.json"
       },
       {
         "label": "i3 Github Deep Dark",
