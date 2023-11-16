@@ -1,5 +1,9 @@
 # Change Log
 
+#### [0.3.3]
+
+- Change Dark+ color
+
 #### [0.3.2]
 
 - Remove all Dark Modern workbench
