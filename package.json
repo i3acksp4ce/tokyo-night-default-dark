@@ -34,6 +34,11 @@
   "contributes": {
     "themes": [
       {
+        "label": "i3 Experimental",
+        "uiTheme": "vs-dark",
+        "path": "./themes/experimental.json"
+      },
+      {
         "label": "i3 Tokyo Deep Dark",
         "uiTheme": "vs-dark",
         "path": "./themes/tokyo-deep-dark.json"
