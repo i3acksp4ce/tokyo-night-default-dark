@@ -1,5 +1,12 @@
 # Change Log
 
+#### [0.3.4]
+
+- Refactor folder
+- Remove deep dark
+- Add houston workbench
+- Add experimental workbench
+
 #### [0.3.3]
 
 - Change Dark+ color
