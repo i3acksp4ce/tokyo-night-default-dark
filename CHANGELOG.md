@@ -1,5 +1,9 @@
 # Change Log
 
+#### [0.4.0]
+
+- Add my opinionated workbench
+
 #### [0.3.4]
 
 - Refactor folder

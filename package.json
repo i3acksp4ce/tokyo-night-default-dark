@@ -3,7 +3,7 @@
   "displayName": "i3 Dark Theme",
   "description": "The VSCode Theme follows the Web Content Accessibility Guidelines (WCAG) 2.0",
   "icon": "icon.jpg",
-  "version": "0.3.4",
+  "version": "0.4.0",
   "publisher": "i3acksp4ce",
   "keywords": [
     "i3",
@@ -34,12 +34,12 @@
   "contributes": {
     "themes": [
       {
-        "label": "i3 Experimental",
-        "uiTheme": "vs-dark",
-        "path": "./themes/experimental.json"
+        "breakline": "==============================================================="
       },
       {
-        "breakline": "==============================================================="
+        "label": "i3 -- Dark+",
+        "uiTheme": "vs-dark",
+        "path": "./themes/dark+/i3.json"
       },
       {
         "label": "i3 -- Dark+ -- Github Dark",
@@ -60,6 +60,11 @@
         "breakline": "==============================================================="
       },
       {
+        "label": "i3 -- Garnet",
+        "uiTheme": "vs-dark",
+        "path": "./themes/garnet/i3.json"
+      },
+      {
         "label": "i3 -- Garnet -- Github Dark",
         "uiTheme": "vs-dark",
         "path": "./themes/garnet/github-dark.json"
@@ -76,6 +81,11 @@
       },
       {
         "breakline": "==============================================================="
+      },
+      {
+        "label": "i3 -- Github",
+        "uiTheme": "vs-dark",
+        "path": "./themes/github/i3.json"
       },
       {
         "label": "i3 -- Github -- Github Dark",
@@ -96,6 +106,11 @@
         "breakline": "==============================================================="
       },
       {
+        "label": "i3 -- Material",
+        "uiTheme": "vs-dark",
+        "path": "./themes/material/i3.json"
+      },
+      {
         "label": "i3 -- Material -- Github Dark",
         "uiTheme": "vs-dark",
         "path": "./themes/material/github-dark.json"
@@ -112,6 +127,11 @@
       },
       {
         "breakline": "==============================================================="
+      },
+      {
+        "label": "i3 -- Monokai",
+        "uiTheme": "vs-dark",
+        "path": "./themes/monokai/i3.json"
       },
       {
         "label": "i3 -- Monokai -- Github Dark",
@@ -132,6 +152,11 @@
         "breakline": "==============================================================="
       },
       {
+        "label": "i3 -- Moonlight",
+        "uiTheme": "vs-dark",
+        "path": "./themes/moonlight/i3.json"
+      },
+      {
         "label": "i3 -- Moonlight -- Github Dark",
         "uiTheme": "vs-dark",
         "path": "./themes/moonlight/github-dark.json"
@@ -150,6 +175,11 @@
         "breakline": "==============================================================="
       },
       {
+        "label": "i3 -- One Dark",
+        "uiTheme": "vs-dark",
+        "path": "./themes/one-dark/i3.json"
+      },
+      {
         "label": "i3 -- One Dark -- Github Dark",
         "uiTheme": "vs-dark",
         "path": "./themes/one-dark/github-dark.json"
@@ -166,6 +196,11 @@
       },
       {
         "breakline": "==============================================================="
+      },
+      {
+        "label": "i3 -- Tokyo",
+        "uiTheme": "vs-dark",
+        "path": "./themes/tokyo/i3.json"
       },
       {
         "label": "i3 -- Tokyo -- Github Dark",
