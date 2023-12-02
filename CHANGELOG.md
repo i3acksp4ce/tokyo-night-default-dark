@@ -1,5 +1,9 @@
 # Change Log
 
+#### [0.4.1]
+
+- Add avtivity bar border, no folder background to my workbench
+
 #### [0.4.0]
 
 - Add my opinionated workbench
