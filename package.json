@@ -3,7 +3,7 @@
   "displayName": "i3 Dark Theme",
   "description": "The VSCode Theme follows the Web Content Accessibility Guidelines (WCAG) 2.0",
   "icon": "icon.jpg",
-  "version": "0.4.11",
+  "version": "0.4.2",
   "publisher": "i3acksp4ce",
   "keywords": [
     "i3",
@@ -47,16 +47,6 @@
         "path": "./themes/dark+/github-dark.json"
       },
       {
-        "label": "i3 -- Dark+ -- Houston",
-        "uiTheme": "vs-dark",
-        "path": "./themes/dark+/houston.json"
-      },
-      {
-        "label": "i3 -- Dark+ -- IDX",
-        "uiTheme": "vs-dark",
-        "path": "./themes/dark+/idx.json"
-      },
-      {
         "breakline": "==============================================================="
       },
       {
@@ -68,16 +58,6 @@
         "label": "i3 -- Garnet -- Github Dark",
         "uiTheme": "vs-dark",
         "path": "./themes/garnet/github-dark.json"
-      },
-      {
-        "label": "i3 -- Garnet -- Houston",
-        "uiTheme": "vs-dark",
-        "path": "./themes/garnet/houston.json"
-      },
-      {
-        "label": "i3 -- Garnet -- IDX",
-        "uiTheme": "vs-dark",
-        "path": "./themes/garnet/idx.json"
       },
       {
         "breakline": "==============================================================="
@@ -93,16 +73,6 @@
         "path": "./themes/github/github-dark.json"
       },
       {
-        "label": "i3 -- Github -- Houston",
-        "uiTheme": "vs-dark",
-        "path": "./themes/github/houston.json"
-      },
-      {
-        "label": "i3 -- Github -- IDX",
-        "uiTheme": "vs-dark",
-        "path": "./themes/github/idx.json"
-      },
-      {
         "breakline": "==============================================================="
       },
       {
@@ -114,16 +84,6 @@
         "label": "i3 -- Material -- Github Dark",
         "uiTheme": "vs-dark",
         "path": "./themes/material/github-dark.json"
-      },
-      {
-        "label": "i3 -- Material -- Houston",
-        "uiTheme": "vs-dark",
-        "path": "./themes/material/houston.json"
-      },
-      {
-        "label": "i3 -- Material -- IDX",
-        "uiTheme": "vs-dark",
-        "path": "./themes/material/idx.json"
       },
       {
         "breakline": "==============================================================="
@@ -139,16 +99,6 @@
         "path": "./themes/monokai/github-dark.json"
       },
       {
-        "label": "i3 -- Monokai -- Houston",
-        "uiTheme": "vs-dark",
-        "path": "./themes/monokai/houston.json"
-      },
-      {
-        "label": "i3 -- Monokai -- IDX",
-        "uiTheme": "vs-dark",
-        "path": "./themes/monokai/idx.json"
-      },
-      {
         "breakline": "==============================================================="
       },
       {
@@ -160,16 +110,6 @@
         "label": "i3 -- Moonlight -- Github Dark",
         "uiTheme": "vs-dark",
         "path": "./themes/moonlight/github-dark.json"
-      },
-      {
-        "label": "i3 -- Moonlight -- Houston",
-        "uiTheme": "vs-dark",
-        "path": "./themes/moonlight/houston.json"
-      },
-      {
-        "label": "i3 -- Moonlight -- IDX",
-        "uiTheme": "vs-dark",
-        "path": "./themes/moonlight/idx.json"
       },
       {
         "breakline": "==============================================================="
@@ -185,16 +125,6 @@
         "path": "./themes/one-dark/github-dark.json"
       },
       {
-        "label": "i3 -- One Dark -- Houston",
-        "uiTheme": "vs-dark",
-        "path": "./themes/one-dark/houston.json"
-      },
-      {
-        "label": "i3 -- One Dark -- IDX",
-        "uiTheme": "vs-dark",
-        "path": "./themes/one-dark/idx.json"
-      },
-      {
         "breakline": "==============================================================="
       },
       {
@@ -206,16 +136,6 @@
         "label": "i3 -- Tokyo -- Github Dark",
         "uiTheme": "vs-dark",
         "path": "./themes/tokyo/github-dark.json"
-      },
-      {
-        "label": "i3 -- Tokyo -- Houston",
-        "uiTheme": "vs-dark",
-        "path": "./themes/tokyo/houston.json"
-      },
-      {
-        "label": "i3 -- Tokyo -- IDX",
-        "uiTheme": "vs-dark",
-        "path": "./themes/tokyo/idx.json"
       }
     ]
   }

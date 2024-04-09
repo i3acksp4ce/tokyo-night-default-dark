@@ -1,5 +1,10 @@
 # Change Log
 
+#### [0.4.2]
+
+- Keep workbench theme just i3, github dark default
+- change syntax color to default
+
 #### [0.4.1]
 
 - Add avtivity bar border, no folder background to my workbench
