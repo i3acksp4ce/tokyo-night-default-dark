@@ -1,6 +1,6 @@
 # Change Log
 
-#### [0.4.2]
+#### [0.5.0]
 
 - Keep workbench theme just i3, github dark default
 - change syntax color to default
