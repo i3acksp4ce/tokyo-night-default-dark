@@ -1,5 +1,10 @@
 # Change Log
 
+#### [0.5.1]
+
+- increase dark color in i3 workbench
+- modify color monokai, moonlight
+
 #### [0.5.0]
 
 - Keep workbench theme just i3, github dark default
