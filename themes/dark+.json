@@ -1,7 +1,7 @@
 {
-  "name": "Dark+ i3",
+  "name": "i3 - Dark+",
   "type": "dark",
-  "include": "../../editor/i3.json",
+  "include": "../editor/github-dark-default.json",
   "semanticHighlighting": true,
   "tokenColors": [
     {
@@ -13,7 +13,7 @@
       ],
       "settings": { "foreground": "#D4D4D4" }
     },
-    { "scope": "emphasis", "settings": { "fontStyle": "italic" } },
+    { "scope": "emphasis", "settings": { "fontStyle": "normal" } },
     { "scope": "strong", "settings": { "fontStyle": "bold" } },
     { "scope": "header", "settings": { "foreground": "#000080" } },
     { "scope": "comment", "settings": { "foreground": "#6A9955" } },
@@ -57,7 +57,7 @@
       "scope": "markup.heading",
       "settings": { "fontStyle": "bold", "foreground": "#569cd6" }
     },
-    { "scope": "markup.italic", "settings": { "fontStyle": "italic" } },
+    { "scope": "markup.normal", "settings": { "fontStyle": "normal" } },
     {
       "scope": "markup.strikethrough",
       "settings": { "fontStyle": "strikethrough" }

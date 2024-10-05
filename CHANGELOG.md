@@ -1,5 +1,10 @@
 # Change Log
 
+#### [0.6]
+
+- Leave only github dark workbench theme
+- Add new some themes
+
 #### [0.5.1]
 
 - increase dark color in i3 workbench

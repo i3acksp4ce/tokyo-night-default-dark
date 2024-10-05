@@ -1,5 +1,4 @@
 {
-  "semanticHighlighting": true,
   "semanticTokenColors": {
     "enumMember": {
       "foreground": "#7dcfff"

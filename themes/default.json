@@ -1,7 +1,7 @@
 {
-  "name": "Tokyo i3",
+  "name": "i3 - Default",
   "type": "dark",
-  "include": "../../editor/i3.json",
+  "include": "../editor/github-dark-default.json",
   "semanticHighlighting": true,
   "semanticTokenColors": {
     "enumMember": {

@@ -1,4 +1,8 @@
 {
+  "name": "i3 - Material",
+  "type": "dark",
+  "include": "../editor/github-dark-default.json",
+  "semanticHighlighting": true,
   "tokenColors": [
     {
       "settings": {

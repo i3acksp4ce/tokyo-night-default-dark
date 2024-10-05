@@ -1,9 +1,8 @@
 {
-  "name": "Monokai Github Dark Default",
+  "name": "i3 - Monokai Pro",
   "type": "dark",
-  "include": "../../editor/github-dark-default.json",
+  "include": "../editor/github-dark-default.json",
   "semanticHighlighting": true,
-  "semanticTokenColors": {},
   "tokenColors": [
     {
       "scope": [

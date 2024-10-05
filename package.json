@@ -1,27 +1,31 @@
 {
   "name": "tokyo-night-default-dark",
   "displayName": "i3 Dark Theme",
-  "description": "The VSCode Theme follows the Web Content Accessibility Guidelines (WCAG) 2.0",
+  "description": "The VSCode theme base on github dark workbench color",
   "icon": "icon.jpg",
-  "version": "0.5.1",
+  "version": "0.6.0",
   "publisher": "i3acksp4ce",
   "keywords": [
-    "i3",
-    "dark theme",
-    "tokyo",
-    "tokyo night",
-    "monokai",
-    "idx",
+    "aurora x",
+    "ayu dark",
+    "catppuccin",
+    "dark+",
+    "default",
     "garnet",
-    "one dark",
-    "deep dark",
     "github dark",
-    "github",
+    "houston",
+    "material ocean",
+    "material",
+    "monokai pro",
     "moonlight",
-    "garnet"
+    "night owl",
+    "one dark pro",
+    "plastic",
+    "tokyo night",
+    "vitesse"
   ],
   "engines": {
-    "vscode": "^1.84.2"
+    "vscode": "^1.94.0"
   },
   "scripts": {
     "package": "vsce package",
@@ -34,108 +38,89 @@
   "contributes": {
     "themes": [
       {
-        "breakline": "==============================================================="
-      },
-      {
-        "label": "i3 -- Dark+",
+        "label": "i3 - Default",
         "uiTheme": "vs-dark",
-        "path": "./themes/dark+/i3.json"
+        "path": "./themes/default.json"
       },
       {
-        "label": "i3 -- Dark+ -- Github Dark",
+        "label": "i3 - Aurora X",
         "uiTheme": "vs-dark",
-        "path": "./themes/dark+/github-dark.json"
+        "path": "./themes/aurora-x.json"
       },
       {
-        "breakline": "==============================================================="
-      },
-      {
-        "label": "i3 -- Garnet",
+        "label": "i3 - Ayu Dark",
         "uiTheme": "vs-dark",
-        "path": "./themes/garnet/i3.json"
+        "path": "./themes/ayu-dark.json"
       },
       {
-        "label": "i3 -- Garnet -- Github Dark",
+        "label": "i3 - Catppuccin",
         "uiTheme": "vs-dark",
-        "path": "./themes/garnet/github-dark.json"
+        "path": "./themes/catppuccin.json"
       },
       {
-        "breakline": "==============================================================="
-      },
-      {
-        "label": "i3 -- Github",
+        "label": "i3 - Dark+",
         "uiTheme": "vs-dark",
-        "path": "./themes/github/i3.json"
+        "path": "./themes/dark+.json"
       },
       {
-        "label": "i3 -- Github -- Github Dark",
+        "label": "i3 - Garnet",
         "uiTheme": "vs-dark",
-        "path": "./themes/github/github-dark.json"
+        "path": "./themes/garnet.json"
       },
       {
-        "breakline": "==============================================================="
-      },
-      {
-        "label": "i3 -- Material",
+        "label": "i3 - Github Dark",
         "uiTheme": "vs-dark",
-        "path": "./themes/material/i3.json"
+        "path": "./themes/github-dark.json"
       },
       {
-        "label": "i3 -- Material -- Github Dark",
+        "label": "i3 - Houston",
         "uiTheme": "vs-dark",
-        "path": "./themes/material/github-dark.json"
+        "path": "./themes/houston.json"
       },
       {
-        "breakline": "==============================================================="
-      },
-      {
-        "label": "i3 -- Monokai",
+        "label": "i3 - Material Ocean",
         "uiTheme": "vs-dark",
-        "path": "./themes/monokai/i3.json"
+        "path": "./themes/material-ocean.json"
       },
       {
-        "label": "i3 -- Monokai -- Github Dark",
+        "label": "i3 - Material",
         "uiTheme": "vs-dark",
-        "path": "./themes/monokai/github-dark.json"
+        "path": "./themes/material.json"
       },
       {
-        "breakline": "==============================================================="
-      },
-      {
-        "label": "i3 -- Moonlight",
+        "label": "i3 - Monokai Pro",
         "uiTheme": "vs-dark",
-        "path": "./themes/moonlight/i3.json"
+        "path": "./themes/monokai-pro.json"
       },
       {
-        "label": "i3 -- Moonlight -- Github Dark",
+        "label": "i3 - Moonlight",
         "uiTheme": "vs-dark",
-        "path": "./themes/moonlight/github-dark.json"
+        "path": "./themes/moonlight.json"
       },
       {
-        "breakline": "==============================================================="
-      },
-      {
-        "label": "i3 -- One Dark",
+        "label": "i3 - Night Owl",
         "uiTheme": "vs-dark",
-        "path": "./themes/one-dark/i3.json"
+        "path": "./themes/night-owl.json"
       },
       {
-        "label": "i3 -- One Dark -- Github Dark",
+        "label": "i3 - One Dark Pro",
         "uiTheme": "vs-dark",
-        "path": "./themes/one-dark/github-dark.json"
+        "path": "./themes/one-dark-pro.json"
       },
       {
-        "breakline": "==============================================================="
-      },
-      {
-        "label": "i3 -- Tokyo",
+        "label": "i3 - Plastic",
         "uiTheme": "vs-dark",
-        "path": "./themes/tokyo/i3.json"
+        "path": "./themes/plastic.json"
       },
       {
-        "label": "i3 -- Tokyo -- Github Dark",
+        "label": "i3 - Tokyo Night",
         "uiTheme": "vs-dark",
-        "path": "./themes/tokyo/github-dark.json"
+        "path": "./themes/tokyo-night.json"
+      },
+      {
+        "label": "i3 - Vitesse",
+        "uiTheme": "vs-dark",
+        "path": "./themes/vitesse.json"
       }
     ]
   }

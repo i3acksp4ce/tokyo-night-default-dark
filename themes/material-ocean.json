@@ -1,9 +1,13 @@
 {
+  "name": "i3 - Material Ocean",
+  "type": "dark",
+  "include": "../editor/github-dark-default.json",
+  "semanticHighlighting": true,
   "tokenColors": [
     {
       "settings": {
-        "background": "#263238",
-        "foreground": "#EEFFFF"
+        "background": "#0F111A",
+        "foreground": "#babed8"
       }
     },
     {
@@ -21,7 +25,7 @@
     {
       "scope": "constant.character.escape, text.html constant.character.entity.named",
       "settings": {
-        "foreground": "#EEFFFF"
+        "foreground": "#babed8"
       }
     },
     {
@@ -39,7 +43,7 @@
     {
       "scope": "variable, variable.parameter, support.variable, variable.language, support.constant, meta.definition.variable entity.name.function, meta.function-call.arguments",
       "settings": {
-        "foreground": "#EEFFFF"
+        "foreground": "#babed8"
       }
     },
     {
@@ -89,14 +93,14 @@
       "scope": "comment",
       "settings": {
         "fontStyle": "italic",
-        "foreground": "#546E7A"
+        "foreground": "#464B5D"
       }
     },
     {
       "scope": "comment punctuation.definition.comment, string.quoted.docstring",
       "settings": {
         "fontStyle": "italic",
-        "foreground": "#546E7A"
+        "foreground": "#464B5D"
       }
     },
     {
@@ -138,7 +142,7 @@
     {
       "scope": "meta.embedded, source.groovy.embedded, meta.template.expression",
       "settings": {
-        "foreground": "#EEFFFF"
+        "foreground": "#babed8"
       }
     },
     {
@@ -204,7 +208,7 @@
     {
       "scope": "punctuation.definition.entity.html",
       "settings": {
-        "foreground": "#EEFFFF"
+        "foreground": "#babed8"
       }
     },
     {
@@ -303,19 +307,19 @@
     {
       "scope": "source.cs meta.preprocessor",
       "settings": {
-        "foreground": "#546E7A"
+        "foreground": "#464B5D"
       }
     },
     {
       "scope": "source.cs entity.name.type.namespace",
       "settings": {
-        "foreground": "#EEFFFF"
+        "foreground": "#babed8"
       }
     },
     {
       "scope": "meta.jsx.children, SXNested",
       "settings": {
-        "foreground": "#EEFFFF"
+        "foreground": "#babed8"
       }
     },
     {
@@ -327,7 +331,7 @@
     {
       "scope": "source.cpp meta.block variable.other",
       "settings": {
-        "foreground": "#EEFFFF"
+        "foreground": "#babed8"
       }
     },
     {
@@ -357,7 +361,7 @@
     {
       "scope": "source.php support.other.namespace, source.php meta.use support.class",
       "settings": {
-        "foreground": "#EEFFFF"
+        "foreground": "#babed8"
       }
     },
     {
@@ -375,8 +379,8 @@
     },
     {
       "settings": {
-        "background": "#263238",
-        "foreground": "#EEFFFF"
+        "background": "#0F111A",
+        "foreground": "#babed8"
       }
     },
     {
@@ -439,7 +443,7 @@
     {
       "scope": ["markup.fenced_code.block"],
       "settings": {
-        "foreground": "#EEFFFF90"
+        "foreground": "#babed890"
       }
     },
     {

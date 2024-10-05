@@ -1,14 +1,13 @@
 {
-  "name": "Garnet i3",
+  "name": "i3 - Garnet",
   "type": "dark",
-  "include": "../../editor/i3.json",
+  "include": "../editor/github-dark-default.json",
   "semanticHighlighting": true,
-  "semanticTokenColors": {},
   "tokenColors": [
     {
       "name": "Comment",
       "scope": ["background", "comment", "punctuation.definition.comment"],
-      "settings": { "fontStyle": "italic", "foreground": "#72a15d" }
+      "settings": { "fontStyle": "normal", "foreground": "#72a15d" }
     },
     {
       "name": "Variables",
@@ -23,10 +22,10 @@
         "meta.function-call.arguments.python",
         "entity.name.function.decorator.python"
       ],
-      "settings": { "fontStyle": "italic", "foreground": "#f3b27d" }
+      "settings": { "fontStyle": "normal", "foreground": "#f3b27d" }
     },
     {
-      "name": "Variables not italic",
+      "name": "Variables not normal",
       "scope": ["source.python"],
       "settings": { "foreground": "#f3b27d" }
     },
@@ -185,12 +184,12 @@
     {
       "name": "Language methods",
       "scope": ["variable.language"],
-      "settings": { "fontStyle": "italic bold", "foreground": "#FF5370" }
+      "settings": { "fontStyle": "normal bold", "foreground": "#FF5370" }
     },
     {
       "name": "entity.name.method.js",
       "scope": ["entity.name.method.js", "meta.scope.case-pattern.shell"],
-      "settings": { "fontStyle": "italic", "foreground": "#82AAFF" }
+      "settings": { "fontStyle": "normal", "foreground": "#82AAFF" }
     },
     {
       "name": "meta.method.js",
@@ -216,7 +215,7 @@
         "text.html.basic entity.other.attribute-name",
         "constant.character.escape.backslash.regexp"
       ],
-      "settings": { "fontStyle": "italic", "foreground": "#FFCB6B" }
+      "settings": { "fontStyle": "normal", "foreground": "#FFCB6B" }
     },
     {
       "name": "CSS Classes",
@@ -269,14 +268,14 @@
         "tag.decorator.js punctuation.definition.tag.js",
         "punctuation.definition.variable.shell"
       ],
-      "settings": { "fontStyle": "italic", "foreground": "#82AAFF" }
+      "settings": { "fontStyle": "normal", "foreground": "#82AAFF" }
     },
     {
       "name": "ES7 Bind Operator",
       "scope": [
         "source.js constant.other.object.key.js string.unquoted.label.js"
       ],
-      "settings": { "fontStyle": "italic", "foreground": "#FF5370" }
+      "settings": { "fontStyle": "normal", "foreground": "#FF5370" }
     },
     {
       "name": "JSON Key - Level 0",
@@ -371,9 +370,9 @@
       "settings": { "foreground": "#569cd6" }
     },
     {
-      "name": "Markup - Italic",
-      "scope": ["markup.italic"],
-      "settings": { "fontStyle": "italic", "foreground": "#f07178" }
+      "name": "Markup - normal",
+      "scope": ["markup.normal"],
+      "settings": { "fontStyle": "normal", "foreground": "#f07178" }
     },
     {
       "name": "Markup - Bold",
@@ -381,13 +380,13 @@
       "settings": { "fontStyle": "bold", "foreground": "#f07178" }
     },
     {
-      "name": "Markup - Bold-Italic",
+      "name": "Markup - Bold-normal",
       "scope": [
-        "markup.bold markup.italic",
-        "markup.italic markup.bold",
+        "markup.bold markup.normal",
+        "markup.normal markup.bold",
         "markup.quote markup.bold",
-        "markup.bold markup.italic string",
-        "markup.italic markup.bold string",
+        "markup.bold markup.normal string",
+        "markup.normal markup.bold string",
         "markup.quote markup.bold string"
       ],
       "settings": { "fontStyle": "bold", "foreground": "#f07178" }
@@ -405,7 +404,7 @@
     {
       "name": "Markup - Quote",
       "scope": ["markup.quote"],
-      "settings": { "fontStyle": "italic" }
+      "settings": { "fontStyle": "normal" }
     },
     {
       "name": "Markdown - Link",
@@ -514,7 +513,7 @@
         "punctuation.definition.annotation.java",
         "storage.type.annotation.java"
       ],
-      "settings": { "fontStyle": "italic", "foreground": "#cac3c3ff" }
+      "settings": { "fontStyle": "normal", "foreground": "#cac3c3ff" }
     },
     {
       "name": "HTML tags",
