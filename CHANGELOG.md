@@ -1,6 +1,10 @@
 # Change Log
 
-#### [0.6]
+#### [0.6.1]
+
+- Add some brighten and darken of syntax color
+
+#### [0.6.0]
 
 - Leave only github dark workbench theme
 - Add new some themes

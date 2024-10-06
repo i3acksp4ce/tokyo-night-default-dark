@@ -3,7 +3,7 @@
   "displayName": "i3 Dark Theme",
   "description": "The VSCode theme base on github dark workbench color",
   "icon": "icon.jpg",
-  "version": "0.6.0",
+  "version": "0.6.1",
   "publisher": "i3acksp4ce",
   "keywords": [
     "aurora x",
@@ -48,6 +48,11 @@
         "path": "./themes/aurora-x.json"
       },
       {
+        "label": "i3 - Aurora X Darken",
+        "uiTheme": "vs-dark",
+        "path": "./themes/aurora-x-darken.json"
+      },
+      {
         "label": "i3 - Ayu Dark",
         "uiTheme": "vs-dark",
         "path": "./themes/ayu-dark.json"
@@ -78,6 +83,11 @@
         "path": "./themes/houston.json"
       },
       {
+        "label": "i3 - Houston Darken",
+        "uiTheme": "vs-dark",
+        "path": "./themes/houston-darken.json"
+      },
+      {
         "label": "i3 - Material Ocean",
         "uiTheme": "vs-dark",
         "path": "./themes/material-ocean.json"
@@ -91,6 +101,11 @@
         "label": "i3 - Monokai Pro",
         "uiTheme": "vs-dark",
         "path": "./themes/monokai-pro.json"
+      },
+      {
+        "label": "i3 - Monokai Pro Darken",
+        "uiTheme": "vs-dark",
+        "path": "./themes/monokai-pro-darken.json"
       },
       {
         "label": "i3 - Moonlight",
@@ -121,6 +136,11 @@
         "label": "i3 - Vitesse",
         "uiTheme": "vs-dark",
         "path": "./themes/vitesse.json"
+      },
+      {
+        "label": "i3 - Vitesse Brighten",
+        "uiTheme": "vs-dark",
+        "path": "./themes/vitesse-brighten.json"
       }
     ]
   }
