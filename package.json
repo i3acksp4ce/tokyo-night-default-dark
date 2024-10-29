@@ -3,7 +3,7 @@
   "displayName": "i3 Dark Theme",
   "description": "The VSCode theme base on github dark workbench color",
   "icon": "icon.jpg",
-  "version": "0.6.1",
+  "version": "0.6.2",
   "publisher": "i3acksp4ce",
   "keywords": [
     "aurora x",
@@ -25,7 +25,7 @@
     "vitesse"
   ],
   "engines": {
-    "vscode": "^1.94.0"
+    "vscode": "^1.94.2"
   },
   "scripts": {
     "package": "vsce package",

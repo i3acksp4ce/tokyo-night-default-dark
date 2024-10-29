@@ -12,7 +12,7 @@
     {
       "scope": ["comment"],
       "settings": {
-        "fontStyle": "italic",
+        "fontStyle": "",
         "foreground": "#acb6bf8c"
       }
     },
@@ -55,7 +55,7 @@
     {
       "scope": ["variable.language"],
       "settings": {
-        "fontStyle": "italic",
+        "fontStyle": "",
         "foreground": "#39bae6"
       }
     },
@@ -213,7 +213,7 @@
     {
       "scope": ["support.constant"],
       "settings": {
-        "fontStyle": "italic",
+        "fontStyle": "",
         "foreground": "#f29668"
       }
     },
@@ -322,7 +322,7 @@
     {
       "scope": ["markup.italic"],
       "settings": {
-        "fontStyle": "italic",
+        "fontStyle": "",
         "foreground": "#f07178"
       }
     },
@@ -362,7 +362,7 @@
     {
       "scope": ["markup.quote"],
       "settings": {
-        "fontStyle": "italic",
+        "fontStyle": "",
         "foreground": "#95e6cb"
       }
     },

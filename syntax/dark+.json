@@ -10,7 +10,7 @@
       ],
       "settings": { "foreground": "#D4D4D4" }
     },
-    { "scope": "emphasis", "settings": { "fontStyle": "italic" } },
+    { "scope": "emphasis", "settings": { "fontStyle": "" } },
     { "scope": "strong", "settings": { "fontStyle": "bold" } },
     { "scope": "header", "settings": { "foreground": "#000080" } },
     { "scope": "comment", "settings": { "foreground": "#6A9955" } },
@@ -54,7 +54,7 @@
       "scope": "markup.heading",
       "settings": { "fontStyle": "bold", "foreground": "#569cd6" }
     },
-    { "scope": "markup.italic", "settings": { "fontStyle": "italic" } },
+    { "scope": "markup.italic", "settings": { "fontStyle": "" } },
     {
       "scope": "markup.strikethrough",
       "settings": { "fontStyle": "strikethrough" }

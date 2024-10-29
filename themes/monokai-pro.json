@@ -16,7 +16,7 @@
       ],
       "settings": {
         "name": "Comments and overrides inside comments",
-        "fontStyle": "italic",
+        "fontStyle": "",
         "foreground": "#69676c"
       }
     },
@@ -196,7 +196,7 @@
       "scope": "entity.other.inherited-class",
       "settings": {
         "name": "Inherited class",
-        "fontStyle": "italic",
+        "fontStyle": "",
         "foreground": "#5ad4e6"
       }
     },
@@ -236,7 +236,7 @@
       "scope": "entity.other.attribute-name",
       "settings": {
         "name": "Tag attribute",
-        "fontStyle": "italic",
+        "fontStyle": "",
         "foreground": "#5ad4e6"
       }
     },
@@ -262,7 +262,7 @@
       ],
       "settings": {
         "name": "CSS pseudo class",
-        "fontStyle": "italic",
+        "fontStyle": "",
         "foreground": "#5ad4e6"
       }
     },
@@ -388,7 +388,7 @@
     },
     {
       "scope": "markup.italic",
-      "settings": { "name": "Italic", "fontStyle": "italic" }
+      "settings": { "name": "Italic", "fontStyle": "" }
     },
     {
       "scope": "markup.bold",
@@ -444,7 +444,7 @@
     },
     {
       "scope": "markup.quote",
-      "settings": { "name": "Markup quote", "fontStyle": "italic" }
+      "settings": { "name": "Markup quote", "fontStyle": "" }
     },
     {
       "scope": [
@@ -728,7 +728,7 @@
       ],
       "settings": {
         "name": "SASS, SCSS and LESS variables",
-        "fontStyle": "italic",
+        "fontStyle": "",
         "foreground": "#fd9353"
       }
     },
@@ -772,7 +772,7 @@
       "scope": "storage.type",
       "settings": {
         "name": "Types and definition / declaration keywords should use the following scope. Examples include int, bool, char, func, function, class and def. Depending on the language and semantics, const may be this or storage.modifier.",
-        "fontStyle": "italic",
+        "fontStyle": "",
         "foreground": "#5ad4e6"
       }
     },
@@ -796,7 +796,7 @@
       "scope": ["storage.modifier", "storage.type.modifier"],
       "settings": {
         "name": "Keywords that affect the storage of a variable, function or data structure should use the following scope. Examples include static, inline, const, public and private.",
-        "fontStyle": "italic",
+        "fontStyle": "",
         "foreground": "#fc618d"
       }
     },
@@ -933,7 +933,7 @@
       "scope": ["support.type", "entity.name.type.object.console"],
       "settings": {
         "name": "Library type",
-        "fontStyle": "italic",
+        "fontStyle": "",
         "foreground": "#5ad4e6"
       }
     },
@@ -977,7 +977,7 @@
       "scope": ["variable.parameter", "parameters variable.function"],
       "settings": {
         "name": "Function arguments",
-        "fontStyle": "italic",
+        "fontStyle": "",
         "foreground": "#fd9353"
       }
     },
@@ -989,7 +989,7 @@
       ],
       "settings": {
         "name": "Reserved variable names that are specified by the language, such as this, self, super, arguments. Also in function arguments (e.g. like in Python)",
-        "fontStyle": "italic",
+        "fontStyle": "",
         "foreground": "#bab6c0"
       }
     },

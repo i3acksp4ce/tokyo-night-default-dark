@@ -690,7 +690,7 @@
     {
       "scope": "source.astro.meta.attribute.client:idle.html",
       "settings": {
-        "fontStyle": "italic",
+        "fontStyle": "",
         "foreground": "#ffd493"
       }
     },
@@ -1484,7 +1484,7 @@
     {
       "scope": "comment, punctuation.definition.comment",
       "settings": {
-        "fontStyle": "italic",
+        "fontStyle": "",
         "foreground": "#eef0f98f"
       }
     },
@@ -1509,25 +1509,25 @@
     {
       "scope": "entity.other.attribute-name.js,entity.other.attribute-name.ts,entity.other.attribute-name.jsx,entity.other.attribute-name.tsx,variable.parameter,variable.language.super",
       "settings": {
-        "fontStyle": "italic"
+        "fontStyle": ""
       }
     },
     {
       "scope": "comment.line.double-slash,comment.block.documentation",
       "settings": {
-        "fontStyle": "italic"
+        "fontStyle": ""
       }
     },
     {
       "scope": "keyword.control.import.python,keyword.control.flow.python",
       "settings": {
-        "fontStyle": "italic"
+        "fontStyle": ""
       }
     },
     {
       "scope": "markup.italic.markdown",
       "settings": {
-        "fontStyle": "italic"
+        "fontStyle": ""
       }
     }
   ]

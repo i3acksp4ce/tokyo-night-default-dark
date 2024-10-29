@@ -69,7 +69,7 @@
     {
       "scope": "support.module, support.node",
       "settings": {
-        "fontStyle": "italic",
+        "fontStyle": "",
         "foreground": "#f07178"
       }
     },
@@ -88,14 +88,14 @@
     {
       "scope": "comment",
       "settings": {
-        "fontStyle": "italic",
+        "fontStyle": "",
         "foreground": "#546E7A"
       }
     },
     {
       "scope": "comment punctuation.definition.comment, string.quoted.docstring",
       "settings": {
-        "fontStyle": "italic",
+        "fontStyle": "",
         "foreground": "#546E7A"
       }
     },
@@ -228,7 +228,7 @@
     {
       "scope": "markup.italic",
       "settings": {
-        "fontStyle": "italic",
+        "fontStyle": "",
         "foreground": "#f07178"
       }
     },
@@ -363,7 +363,7 @@
     {
       "scope": "constant.keyword",
       "settings": {
-        "fontStyle": "italic",
+        "fontStyle": "",
         "foreground": "#89DDFF"
       }
     },
@@ -406,20 +406,20 @@
     {
       "scope": ["keyword.control"],
       "settings": {
-        "fontStyle": "italic",
+        "fontStyle": "",
         "foreground": "#89DDFF"
       }
     },
     {
       "scope": ["variable.parameter"],
       "settings": {
-        "fontStyle": "italic"
+        "fontStyle": ""
       }
     },
     {
       "scope": ["variable.parameter.function.language.special.self.python"],
       "settings": {
-        "fontStyle": "italic",
+        "fontStyle": "",
         "foreground": "#f07178"
       }
     },
@@ -432,7 +432,7 @@
     {
       "scope": ["markup.quote"],
       "settings": {
-        "fontStyle": "italic",
+        "fontStyle": "",
         "foreground": "#89DDFF"
       }
     },

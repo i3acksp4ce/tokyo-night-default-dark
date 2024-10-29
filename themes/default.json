@@ -186,7 +186,7 @@
         "parameter.variable"
       ],
       "settings": {
-        "fontStyle": "italic",
+        "fontStyle": "",
         "foreground": "#d19a66"
       }
     },
@@ -417,7 +417,7 @@
       "name": "Markup: Emphasis",
       "scope": "markup.italic, markup.italic.markdown",
       "settings": {
-        "fontStyle": "italic"
+        "fontStyle": ""
       }
     },
     {
@@ -435,7 +435,7 @@
       "name": "Markup: Emphasis Punctuation",
       "scope": "punctuation.definition.italic.markdown",
       "settings": {
-        "fontStyle": "italic"
+        "fontStyle": ""
       }
     },
     {

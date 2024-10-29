@@ -1,5 +1,9 @@
 # Change Log
 
+#### [0.6.2]
+
+- Remove all Italics
+
 #### [0.6.1]
 
 - Add some brighten and darken of syntax color

@@ -43,7 +43,7 @@
         "string.quoted.docstring.multi.python constant.character.escape"
       ],
       "settings": {
-        "fontStyle": "italic"
+        "fontStyle": ""
       }
     },
     {
@@ -938,7 +938,7 @@
     {
       "scope": ["markup.italic", "markup.italic punctuation"],
       "settings": {
-        "fontStyle": "italic",
+        "fontStyle": "",
         "foreground": "#c0caf5"
       }
     },
@@ -974,7 +974,7 @@
     {
       "scope": "markup.quote",
       "settings": {
-        "fontStyle": "italic"
+        "fontStyle": ""
       }
     },
     {

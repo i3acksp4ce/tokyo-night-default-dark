@@ -3,7 +3,7 @@
     {
       "scope": ["comment", "punctuation.definition.comment"],
       "settings": {
-        "fontStyle": "italic",
+        "fontStyle": "",
         "foreground": "#546E7A"
       }
     },
@@ -160,14 +160,14 @@
     {
       "scope": ["variable.language"],
       "settings": {
-        "fontStyle": "italic",
+        "fontStyle": "",
         "foreground": "#FF5370"
       }
     },
     {
       "scope": ["entity.name.method.js"],
       "settings": {
-        "fontStyle": "italic",
+        "fontStyle": "",
         "foreground": "#82AAFF"
       }
     },
@@ -192,7 +192,7 @@
         "text.html.basic entity.other.attribute-name"
       ],
       "settings": {
-        "fontStyle": "italic",
+        "fontStyle": "",
         "foreground": "#FFCB6B"
       }
     },
@@ -250,7 +250,7 @@
         "tag.decorator.js punctuation.definition.tag.js"
       ],
       "settings": {
-        "fontStyle": "italic",
+        "fontStyle": "",
         "foreground": "#82AAFF"
       }
     },
@@ -259,7 +259,7 @@
         "source.js constant.other.object.key.js string.unquoted.label.js"
       ],
       "settings": {
-        "fontStyle": "italic",
+        "fontStyle": "",
         "foreground": "#FF5370"
       }
     },
@@ -371,7 +371,7 @@
     {
       "scope": ["markup.italic"],
       "settings": {
-        "fontStyle": "italic",
+        "fontStyle": "",
         "foreground": "#f07178"
       }
     },
@@ -412,7 +412,7 @@
     {
       "scope": ["markup.quote"],
       "settings": {
-        "fontStyle": "italic"
+        "fontStyle": ""
       }
     },
     {

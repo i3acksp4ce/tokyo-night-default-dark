@@ -49,7 +49,7 @@
       "foreground": "#e78284"
     },
     "text.emph": {
-      "fontStyle": "italic",
+      "fontStyle": "",
       "foreground": "#e78284"
     },
     "text.math": {
@@ -117,7 +117,7 @@
     {
       "scope": ["comment", "punctuation.definition.comment"],
       "settings": {
-        "fontStyle": "italic",
+        "fontStyle": "",
         "foreground": "#737994"
       }
     },
@@ -192,7 +192,7 @@
         "variable.function"
       ],
       "settings": {
-        "fontStyle": "italic",
+        "fontStyle": "",
         "foreground": "#8caaee"
       }
     },
@@ -205,14 +205,14 @@
         "entity.name.struct"
       ],
       "settings": {
-        "fontStyle": "italic",
+        "fontStyle": "",
         "foreground": "#e5c890"
       }
     },
     {
       "scope": "entity.name.enum",
       "settings": {
-        "fontStyle": "italic",
+        "fontStyle": "",
         "foreground": "#e5c890"
       }
     },
@@ -239,7 +239,7 @@
         "entity.name.type"
       ],
       "settings": {
-        "fontStyle": "italic",
+        "fontStyle": "",
         "foreground": "#e5c890"
       }
     },
@@ -258,7 +258,7 @@
     {
       "scope": ["variable.parameter", "meta.function.parameters"],
       "settings": {
-        "fontStyle": "italic",
+        "fontStyle": "",
         "foreground": "#ea999c"
       }
     },
@@ -753,7 +753,7 @@
     {
       "scope": "punctuation.decorator.ts",
       "settings": {
-        "fontStyle": "italic",
+        "fontStyle": "",
         "foreground": "#8caaee"
       }
     },
@@ -777,7 +777,7 @@
     {
       "scope": "support.function.macro.julia",
       "settings": {
-        "fontStyle": "italic",
+        "fontStyle": "",
         "foreground": "#81c8be"
       }
     },
@@ -923,7 +923,7 @@
     {
       "scope": "markup.italic",
       "settings": {
-        "fontStyle": "italic",
+        "fontStyle": "",
         "foreground": "#e78284"
       }
     },
@@ -1085,7 +1085,7 @@
     {
       "scope": ["support.function.magic.python"],
       "settings": {
-        "fontStyle": "italic",
+        "fontStyle": "",
         "foreground": "#99d1db"
       }
     },
@@ -1095,7 +1095,7 @@
         "variable.language.special.self.python"
       ],
       "settings": {
-        "fontStyle": "italic",
+        "fontStyle": "",
         "foreground": "#e78284"
       }
     },
@@ -1135,7 +1135,7 @@
         "punctuation.definition.decorator.python"
       ],
       "settings": {
-        "fontStyle": "italic",
+        "fontStyle": "",
         "foreground": "#ef9f76"
       }
     },
@@ -1169,14 +1169,14 @@
     {
       "scope": ["meta.indexed-name.python", "meta.item-access.python"],
       "settings": {
-        "fontStyle": "italic",
+        "fontStyle": "",
         "foreground": "#ea999c"
       }
     },
     {
       "scope": "storage.type.string.python",
       "settings": {
-        "fontStyle": "italic",
+        "fontStyle": "",
         "foreground": "#a6d189"
       }
     },
@@ -1264,7 +1264,7 @@
         "punctuation.definition.attribute.rust"
       ],
       "settings": {
-        "fontStyle": "italic",
+        "fontStyle": "",
         "foreground": "#e5c890"
       }
     },
@@ -1312,7 +1312,7 @@
     {
       "scope": "entity.name.impl.rust",
       "settings": {
-        "fontStyle": "italic",
+        "fontStyle": "",
         "foreground": "#e5c890"
       }
     },
@@ -1325,7 +1325,7 @@
     {
       "scope": "entity.name.trait.rust",
       "settings": {
-        "fontStyle": "italic",
+        "fontStyle": "",
         "foreground": "#e5c890"
       }
     },
@@ -1354,14 +1354,14 @@
         "entity.name.function.macro.rust"
       ],
       "settings": {
-        "fontStyle": "italic",
+        "fontStyle": "",
         "foreground": "#8caaee"
       }
     },
     {
       "scope": ["storage.modifier.lifetime.rust", "entity.name.type.lifetime"],
       "settings": {
-        "fontStyle": "italic",
+        "fontStyle": "",
         "foreground": "#8caaee"
       }
     },
@@ -1431,14 +1431,14 @@
         "meta.shebang.shell"
       ],
       "settings": {
-        "fontStyle": "italic",
+        "fontStyle": "",
         "foreground": "#f4b8e4"
       }
     },
     {
       "scope": "comment.line.shebang constant.language",
       "settings": {
-        "fontStyle": "italic",
+        "fontStyle": "",
         "foreground": "#81c8be"
       }
     },
@@ -1456,7 +1456,7 @@
     {
       "scope": "meta.string meta.interpolation.parameter.shell variable.other.readwrite",
       "settings": {
-        "fontStyle": "italic",
+        "fontStyle": "",
         "foreground": "#ef9f76"
       }
     },

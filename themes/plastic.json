@@ -111,7 +111,7 @@
     {
       "scope": ["comment", "markup.italic", "punctuation.definition.italic"],
       "settings": {
-        "fontStyle": "italic"
+        "fontStyle": ""
       }
     }
   ]
