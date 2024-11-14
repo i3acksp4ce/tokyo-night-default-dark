@@ -1,15 +1,15 @@
 {
   "name": "tokyo-night-default-dark",
   "displayName": "i3 Dark Theme",
-  "description": "The VSCode theme base on github dark workbench color",
+  "description": "The VSCode theme base on github dark workbench color with WCAG 2.0",
   "icon": "icon.jpg",
-  "version": "0.6.2",
+  "version": "0.6.3",
   "publisher": "i3acksp4ce",
   "keywords": [
     "Aurora X",
     "Ayu Dark",
     "Bearded Monokai",
-    "GitHub Dark Dimmed",
+    "Catppuccino",
     "Dark+",
     "Garnet",
     "GitHub Dark",
@@ -26,7 +26,7 @@
     "Vitesse"
   ],
   "engines": {
-    "vscode": "^1.94.2"
+    "vscode": "^1.95.2"
   },
   "scripts": {
     "package": "vsce package",
@@ -54,9 +54,9 @@
         "path": "./themes/bearded-monokai.json"
       },
       {
-        "label": "i3 - GitHub Dark Dimmed",
+        "label": "i3 - Catppuccino",
         "uiTheme": "vs-dark",
-        "path": "./themes/github-dark-dimmed.json"
+        "path": "./themes/catppuccino.json"
       },
       {
         "label": "i3 - Dark+",

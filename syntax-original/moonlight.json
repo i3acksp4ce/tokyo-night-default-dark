@@ -16,7 +16,6 @@
   "tokenColors": [
     {
       "settings": {
-        "background": "#222436",
         "foreground": "#c8d3f5"
       }
     },

@@ -1,5 +1,10 @@
 # Change Log
 
+#### [0.6.3]
+
+- Modify All Syntax Highlight
+- Minor Improvement contrast.
+
 #### [0.6.2]
 
 - Remove all Italics
