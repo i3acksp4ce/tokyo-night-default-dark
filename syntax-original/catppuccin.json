@@ -1,8 +1,5 @@
 {
-  "name": "i3 - Catppuccin",
-  "type": "dark",
-  "include": "../editor/github-dark-default.json",
-  "semanticHighlighting": true,
+  "name": "GitHub Dark Dimmed",
   "semanticTokenColors": {
     "boolean": {
       "foreground": "#ef9f76"

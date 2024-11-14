@@ -1,4 +1,5 @@
 {
+  "name": "Vitesse",
   "semanticTokenColors": {
     "class": "#6872ab",
     "interface": "#5d99a9",

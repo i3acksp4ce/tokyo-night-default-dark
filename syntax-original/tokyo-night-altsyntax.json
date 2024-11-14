@@ -1,8 +1,5 @@
 {
-  "name": "i3 - Default",
-  "type": "dark",
-  "include": "../editor/github-dark-default.json",
-  "semanticHighlighting": true,
+  "name": "Tokyo Night Alt Syntax",
   "semanticTokenColors": {
     "enumMember": {
       "foreground": "#7dcfff"

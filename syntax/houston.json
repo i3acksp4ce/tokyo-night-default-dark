@@ -1,4 +1,5 @@
 {
+  "name": "Houston",
   "semanticTokenColors": {
     "enumMember": {
       "foreground": "#eef0f9"

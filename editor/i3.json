@@ -1,4 +1,7 @@
 {
+  "name": "Custom",
+  "type": "dark",
+  "semanticHighlighting": true,
   "colors": {
     "foreground": "#e0e0e0",
     "focusBorder": "#ababab",

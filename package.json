@@ -6,23 +6,24 @@
   "version": "0.6.2",
   "publisher": "i3acksp4ce",
   "keywords": [
-    "aurora x",
-    "ayu dark",
-    "catppuccin",
-    "dark+",
-    "default",
-    "garnet",
-    "github dark",
-    "houston",
-    "material ocean",
-    "material",
-    "monokai pro",
-    "moonlight",
-    "night owl",
-    "one dark pro",
-    "plastic",
-    "tokyo night",
-    "vitesse"
+    "Aurora X",
+    "Ayu Dark",
+    "Bearded Monokai",
+    "GitHub Dark Dimmed",
+    "Dark+",
+    "Garnet",
+    "GitHub Dark",
+    "Houston",
+    "Material Ocean",
+    "Material",
+    "Monokai Pro",
+    "Moonlight",
+    "Night Owl",
+    "One Dark Pro",
+    "Plastic",
+    "Tokyo Night Alt Syntax",
+    "Tokyo Night",
+    "Vitesse"
   ],
   "engines": {
     "vscode": "^1.94.2"
@@ -38,19 +39,9 @@
   "contributes": {
     "themes": [
       {
-        "label": "i3 - Default",
-        "uiTheme": "vs-dark",
-        "path": "./themes/default.json"
-      },
-      {
         "label": "i3 - Aurora X",
         "uiTheme": "vs-dark",
         "path": "./themes/aurora-x.json"
-      },
-      {
-        "label": "i3 - Aurora X Darken",
-        "uiTheme": "vs-dark",
-        "path": "./themes/aurora-x-darken.json"
       },
       {
         "label": "i3 - Ayu Dark",
@@ -58,9 +49,14 @@
         "path": "./themes/ayu-dark.json"
       },
       {
-        "label": "i3 - Catppuccin",
+        "label": "i3 - Bearded Monokai",
         "uiTheme": "vs-dark",
-        "path": "./themes/catppuccin.json"
+        "path": "./themes/bearded-monokai.json"
+      },
+      {
+        "label": "i3 - GitHub Dark Dimmed",
+        "uiTheme": "vs-dark",
+        "path": "./themes/github-dark-dimmed.json"
       },
       {
         "label": "i3 - Dark+",
@@ -73,7 +69,7 @@
         "path": "./themes/garnet.json"
       },
       {
-        "label": "i3 - Github Dark",
+        "label": "i3 - GitHub Dark",
         "uiTheme": "vs-dark",
         "path": "./themes/github-dark.json"
       },
@@ -81,11 +77,6 @@
         "label": "i3 - Houston",
         "uiTheme": "vs-dark",
         "path": "./themes/houston.json"
-      },
-      {
-        "label": "i3 - Houston Darken",
-        "uiTheme": "vs-dark",
-        "path": "./themes/houston-darken.json"
       },
       {
         "label": "i3 - Material Ocean",
@@ -101,11 +92,6 @@
         "label": "i3 - Monokai Pro",
         "uiTheme": "vs-dark",
         "path": "./themes/monokai-pro.json"
-      },
-      {
-        "label": "i3 - Monokai Pro Darken",
-        "uiTheme": "vs-dark",
-        "path": "./themes/monokai-pro-darken.json"
       },
       {
         "label": "i3 - Moonlight",
@@ -128,6 +114,11 @@
         "path": "./themes/plastic.json"
       },
       {
+        "label": "i3 - Tokyo Night Alt Syntax",
+        "uiTheme": "vs-dark",
+        "path": "./themes/tokyo-night-alt-syntax.json"
+      },
+      {
         "label": "i3 - Tokyo Night",
         "uiTheme": "vs-dark",
         "path": "./themes/tokyo-night.json"
@@ -136,11 +127,6 @@
         "label": "i3 - Vitesse",
         "uiTheme": "vs-dark",
         "path": "./themes/vitesse.json"
-      },
-      {
-        "label": "i3 - Vitesse Brighten",
-        "uiTheme": "vs-dark",
-        "path": "./themes/vitesse-brighten.json"
       }
     ]
   }

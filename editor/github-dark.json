@@ -1,4 +1,7 @@
 {
+  "name": "Github Dark",
+  "type": "dark",
+  "semanticHighlighting": true,
   "colors": {
     "focusBorder": "#1f6feb",
     "foreground": "#e6edf3",

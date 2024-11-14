@@ -1,4 +1,5 @@
 {
+  "name": "Tokyo Night Alt Syntax",
   "semanticTokenColors": {
     "enumMember": {
       "foreground": "#7dcfff"
