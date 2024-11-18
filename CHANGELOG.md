@@ -1,5 +1,9 @@
 # Change Log
 
+#### [0.6.4]
+
+- Add new cutom workbench theme.
+
 #### [0.6.3]
 
 - Modify All Syntax Highlight
