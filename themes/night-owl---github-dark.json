@@ -1,7 +1,7 @@
 {
   "name": "i3 - Night Owl - Github Dark",
   "type": "dark",
-  "semanticHighlighting": true,
+  "semanticHighlighting": false,
   "colors": {
     "focusBorder": "#1f6feb",
     "foreground": "#e6edf3",

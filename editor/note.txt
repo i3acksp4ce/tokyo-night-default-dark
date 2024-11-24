@@ -1,0 +1,25 @@
+change HSL
+https://cliambrown.com/contrast/
+
+Github Dark
+background #0d1117 216 28 7
+foreground #e6edf3 208 35 93
+sidebar #010409 218 80 2
+focus border #1f6feb 216 84 52
+button #238636 132 59 33
+button hover #2ea043 131 55 40
+border #30363d 212 12 21
+
+-1 background
+fix foreground
+-4 sidebar
++56 +45 focus border, button
++56 +52 button hover
++13 border
+
+Custom 210 28 12 #161f27
+
+Custom II 225 7 11 #1a1b1e
+
+Custom III 207 95 8 #011627
+-2 sidebar

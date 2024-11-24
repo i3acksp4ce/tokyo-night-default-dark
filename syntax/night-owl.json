@@ -1,5 +1,6 @@
 {
   "name": "Night Owl",
+  "semanticHighlighting": false,
   "tokenColors": [
     {
       "scope": [

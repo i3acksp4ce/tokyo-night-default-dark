@@ -1,5 +1,9 @@
 # Change Log
 
+#### [0.6.6]
+
+- Add some new themes workbench & syntax
+
 #### [0.6.5]
 
 - Add some new themes.

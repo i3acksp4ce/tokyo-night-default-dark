@@ -3,7 +3,7 @@
   "displayName": "i3 Dark Theme",
   "description": "The VSCode theme base on github dark workbench color with WCAG 2.0",
   "icon": "icon.jpg",
-  "version": "0.6.5",
+  "version": "0.6.6",
   "publisher": "i3acksp4ce",
   "keywords": [
     "Aurora X",
@@ -24,7 +24,9 @@
     "Moonlight II",
     "Moonlight",
     "Night Owl",
+    "Noctis",
     "One Dark Pro",
+    "Panda",
     "Plastic",
     "Tokyo Night Alt Syntax",
     "Tokyo Night",
@@ -134,9 +136,19 @@
         "path": "./themes/night-owl---github-dark.json"
       },
       {
+        "label": "i3 - Noctis - Github Dark",
+        "uiTheme": "vs-dark",
+        "path": "./themes/noctis---github-dark.json"
+      },
+      {
         "label": "i3 - One Dark Pro - Github Dark",
         "uiTheme": "vs-dark",
         "path": "./themes/one-dark-pro---github-dark.json"
+      },
+      {
+        "label": "i3 - Panda - Github Dark",
+        "uiTheme": "vs-dark",
+        "path": "./themes/panda---github-dark.json"
       },
       {
         "label": "i3 - Plastic - Github Dark",
@@ -157,6 +169,256 @@
         "label": "i3 - Vitesse - Github Dark",
         "uiTheme": "vs-dark",
         "path": "./themes/vitesse---github-dark.json"
+      },
+      {
+        "label": "i3 - Aurora X - Custom III",
+        "uiTheme": "vs-dark",
+        "path": "./themes/aurora-x---custom-iii.json"
+      },
+      {
+        "label": "i3 - Ayu Dark - Custom III",
+        "uiTheme": "vs-dark",
+        "path": "./themes/ayu-dark---custom-iii.json"
+      },
+      {
+        "label": "i3 - Bearded Altica - Custom III",
+        "uiTheme": "vs-dark",
+        "path": "./themes/bearded-altica---custom-iii.json"
+      },
+      {
+        "label": "i3 - Bearded Earth - Custom III",
+        "uiTheme": "vs-dark",
+        "path": "./themes/bearded-earth---custom-iii.json"
+      },
+      {
+        "label": "i3 - Bearded Monokai - Custom III",
+        "uiTheme": "vs-dark",
+        "path": "./themes/bearded-monokai---custom-iii.json"
+      },
+      {
+        "label": "i3 - Bearded Oceanic - Custom III",
+        "uiTheme": "vs-dark",
+        "path": "./themes/bearded-oceanic---custom-iii.json"
+      },
+      {
+        "label": "i3 - Catppuccino - Custom III",
+        "uiTheme": "vs-dark",
+        "path": "./themes/catppuccino---custom-iii.json"
+      },
+      {
+        "label": "i3 - Dark+ - Custom III",
+        "uiTheme": "vs-dark",
+        "path": "./themes/dark+---custom-iii.json"
+      },
+      {
+        "label": "i3 - Garnet - Custom III",
+        "uiTheme": "vs-dark",
+        "path": "./themes/garnet---custom-iii.json"
+      },
+      {
+        "label": "i3 - GitHub Dark - Custom III",
+        "uiTheme": "vs-dark",
+        "path": "./themes/github-dark---custom-iii.json"
+      },
+      {
+        "label": "i3 - Houston - Custom III",
+        "uiTheme": "vs-dark",
+        "path": "./themes/houston---custom-iii.json"
+      },
+      {
+        "label": "i3 - IDX Monospace Dark - Custom III",
+        "uiTheme": "vs-dark",
+        "path": "./themes/idx-monospace-dark---custom-iii.json"
+      },
+      {
+        "label": "i3 - Material Ocean - Custom III",
+        "uiTheme": "vs-dark",
+        "path": "./themes/material-ocean---custom-iii.json"
+      },
+      {
+        "label": "i3 - Material - Custom III",
+        "uiTheme": "vs-dark",
+        "path": "./themes/material---custom-iii.json"
+      },
+      {
+        "label": "i3 - Monokai Pro - Custom III",
+        "uiTheme": "vs-dark",
+        "path": "./themes/monokai-pro---custom-iii.json"
+      },
+      {
+        "label": "i3 - Moonlight II - Custom III",
+        "uiTheme": "vs-dark",
+        "path": "./themes/moonlight-ii---custom-iii.json"
+      },
+      {
+        "label": "i3 - Moonlight - Custom III",
+        "uiTheme": "vs-dark",
+        "path": "./themes/moonlight---custom-iii.json"
+      },
+      {
+        "label": "i3 - Night Owl - Custom III",
+        "uiTheme": "vs-dark",
+        "path": "./themes/night-owl---custom-iii.json"
+      },
+      {
+        "label": "i3 - Noctis - Custom III",
+        "uiTheme": "vs-dark",
+        "path": "./themes/noctis---custom-iii.json"
+      },
+      {
+        "label": "i3 - One Dark Pro - Custom III",
+        "uiTheme": "vs-dark",
+        "path": "./themes/one-dark-pro---custom-iii.json"
+      },
+      {
+        "label": "i3 - Panda - Custom III",
+        "uiTheme": "vs-dark",
+        "path": "./themes/panda---custom-iii.json"
+      },
+      {
+        "label": "i3 - Plastic - Custom III",
+        "uiTheme": "vs-dark",
+        "path": "./themes/plastic---custom-iii.json"
+      },
+      {
+        "label": "i3 - Tokyo Night Alt Syntax - Custom III",
+        "uiTheme": "vs-dark",
+        "path": "./themes/tokyo-night-alt-syntax---custom-iii.json"
+      },
+      {
+        "label": "i3 - Tokyo Night - Custom III",
+        "uiTheme": "vs-dark",
+        "path": "./themes/tokyo-night---custom-iii.json"
+      },
+      {
+        "label": "i3 - Vitesse - Custom III",
+        "uiTheme": "vs-dark",
+        "path": "./themes/vitesse---custom-iii.json"
+      },
+      {
+        "label": "i3 - Aurora X - Custom II",
+        "uiTheme": "vs-dark",
+        "path": "./themes/aurora-x---custom-ii.json"
+      },
+      {
+        "label": "i3 - Ayu Dark - Custom II",
+        "uiTheme": "vs-dark",
+        "path": "./themes/ayu-dark---custom-ii.json"
+      },
+      {
+        "label": "i3 - Bearded Altica - Custom II",
+        "uiTheme": "vs-dark",
+        "path": "./themes/bearded-altica---custom-ii.json"
+      },
+      {
+        "label": "i3 - Bearded Earth - Custom II",
+        "uiTheme": "vs-dark",
+        "path": "./themes/bearded-earth---custom-ii.json"
+      },
+      {
+        "label": "i3 - Bearded Monokai - Custom II",
+        "uiTheme": "vs-dark",
+        "path": "./themes/bearded-monokai---custom-ii.json"
+      },
+      {
+        "label": "i3 - Bearded Oceanic - Custom II",
+        "uiTheme": "vs-dark",
+        "path": "./themes/bearded-oceanic---custom-ii.json"
+      },
+      {
+        "label": "i3 - Catppuccino - Custom II",
+        "uiTheme": "vs-dark",
+        "path": "./themes/catppuccino---custom-ii.json"
+      },
+      {
+        "label": "i3 - Dark+ - Custom II",
+        "uiTheme": "vs-dark",
+        "path": "./themes/dark+---custom-ii.json"
+      },
+      {
+        "label": "i3 - Garnet - Custom II",
+        "uiTheme": "vs-dark",
+        "path": "./themes/garnet---custom-ii.json"
+      },
+      {
+        "label": "i3 - GitHub Dark - Custom II",
+        "uiTheme": "vs-dark",
+        "path": "./themes/github-dark---custom-ii.json"
+      },
+      {
+        "label": "i3 - Houston - Custom II",
+        "uiTheme": "vs-dark",
+        "path": "./themes/houston---custom-ii.json"
+      },
+      {
+        "label": "i3 - IDX Monospace Dark - Custom II",
+        "uiTheme": "vs-dark",
+        "path": "./themes/idx-monospace-dark---custom-ii.json"
+      },
+      {
+        "label": "i3 - Material Ocean - Custom II",
+        "uiTheme": "vs-dark",
+        "path": "./themes/material-ocean---custom-ii.json"
+      },
+      {
+        "label": "i3 - Material - Custom II",
+        "uiTheme": "vs-dark",
+        "path": "./themes/material---custom-ii.json"
+      },
+      {
+        "label": "i3 - Monokai Pro - Custom II",
+        "uiTheme": "vs-dark",
+        "path": "./themes/monokai-pro---custom-ii.json"
+      },
+      {
+        "label": "i3 - Moonlight II - Custom II",
+        "uiTheme": "vs-dark",
+        "path": "./themes/moonlight-ii---custom-ii.json"
+      },
+      {
+        "label": "i3 - Moonlight - Custom II",
+        "uiTheme": "vs-dark",
+        "path": "./themes/moonlight---custom-ii.json"
+      },
+      {
+        "label": "i3 - Night Owl - Custom II",
+        "uiTheme": "vs-dark",
+        "path": "./themes/night-owl---custom-ii.json"
+      },
+      {
+        "label": "i3 - Noctis - Custom II",
+        "uiTheme": "vs-dark",
+        "path": "./themes/noctis---custom-ii.json"
+      },
+      {
+        "label": "i3 - One Dark Pro - Custom II",
+        "uiTheme": "vs-dark",
+        "path": "./themes/one-dark-pro---custom-ii.json"
+      },
+      {
+        "label": "i3 - Panda - Custom II",
+        "uiTheme": "vs-dark",
+        "path": "./themes/panda---custom-ii.json"
+      },
+      {
+        "label": "i3 - Plastic - Custom II",
+        "uiTheme": "vs-dark",
+        "path": "./themes/plastic---custom-ii.json"
+      },
+      {
+        "label": "i3 - Tokyo Night Alt Syntax - Custom II",
+        "uiTheme": "vs-dark",
+        "path": "./themes/tokyo-night-alt-syntax---custom-ii.json"
+      },
+      {
+        "label": "i3 - Tokyo Night - Custom II",
+        "uiTheme": "vs-dark",
+        "path": "./themes/tokyo-night---custom-ii.json"
+      },
+      {
+        "label": "i3 - Vitesse - Custom II",
+        "uiTheme": "vs-dark",
+        "path": "./themes/vitesse---custom-ii.json"
       },
       {
         "label": "i3 - Aurora X - Custom",
@@ -249,9 +511,19 @@
         "path": "./themes/night-owl---custom.json"
       },
       {
+        "label": "i3 - Noctis - Custom",
+        "uiTheme": "vs-dark",
+        "path": "./themes/noctis---custom.json"
+      },
+      {
         "label": "i3 - One Dark Pro - Custom",
         "uiTheme": "vs-dark",
         "path": "./themes/one-dark-pro---custom.json"
+      },
+      {
+        "label": "i3 - Panda - Custom",
+        "uiTheme": "vs-dark",
+        "path": "./themes/panda---custom.json"
       },
       {
         "label": "i3 - Plastic - Custom",
