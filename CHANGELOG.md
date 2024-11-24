@@ -1,5 +1,10 @@
 # Change Log
 
+#### [0.6.5]
+
+- Add some new themes.
+- Increase contrast ratio about 0.5
+
 #### [0.6.4]
 
 - Add new cutom workbench theme.

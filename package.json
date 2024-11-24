@@ -3,20 +3,25 @@
   "displayName": "i3 Dark Theme",
   "description": "The VSCode theme base on github dark workbench color with WCAG 2.0",
   "icon": "icon.jpg",
-  "version": "0.6.4",
+  "version": "0.6.5",
   "publisher": "i3acksp4ce",
   "keywords": [
     "Aurora X",
     "Ayu Dark",
+    "Bearded Altica",
+    "Bearded Earth",
     "Bearded Monokai",
+    "Bearded Oceanic",
     "Catppuccino",
     "Dark+",
     "Garnet",
     "GitHub Dark",
     "Houston",
+    "IDX Monospace Dark",
     "Material Ocean",
     "Material",
     "Monokai Pro",
+    "Moonlight II",
     "Moonlight",
     "Night Owl",
     "One Dark Pro",
@@ -49,9 +54,24 @@
         "path": "./themes/ayu-dark---github-dark.json"
       },
       {
+        "label": "i3 - Bearded Altica - Github Dark",
+        "uiTheme": "vs-dark",
+        "path": "./themes/bearded-altica---github-dark.json"
+      },
+      {
+        "label": "i3 - Bearded Earth - Github Dark",
+        "uiTheme": "vs-dark",
+        "path": "./themes/bearded-earth---github-dark.json"
+      },
+      {
         "label": "i3 - Bearded Monokai - Github Dark",
         "uiTheme": "vs-dark",
         "path": "./themes/bearded-monokai---github-dark.json"
+      },
+      {
+        "label": "i3 - Bearded Oceanic - Github Dark",
+        "uiTheme": "vs-dark",
+        "path": "./themes/bearded-oceanic---github-dark.json"
       },
       {
         "label": "i3 - Catppuccino - Github Dark",
@@ -79,6 +99,11 @@
         "path": "./themes/houston---github-dark.json"
       },
       {
+        "label": "i3 - IDX Monospace Dark - Github Dark",
+        "uiTheme": "vs-dark",
+        "path": "./themes/idx-monospace-dark---github-dark.json"
+      },
+      {
         "label": "i3 - Material Ocean - Github Dark",
         "uiTheme": "vs-dark",
         "path": "./themes/material-ocean---github-dark.json"
@@ -92,6 +117,11 @@
         "label": "i3 - Monokai Pro - Github Dark",
         "uiTheme": "vs-dark",
         "path": "./themes/monokai-pro---github-dark.json"
+      },
+      {
+        "label": "i3 - Moonlight II - Github Dark",
+        "uiTheme": "vs-dark",
+        "path": "./themes/moonlight-ii---github-dark.json"
       },
       {
         "label": "i3 - Moonlight - Github Dark",
@@ -139,9 +169,24 @@
         "path": "./themes/ayu-dark---custom.json"
       },
       {
+        "label": "i3 - Bearded Altica - Custom",
+        "uiTheme": "vs-dark",
+        "path": "./themes/bearded-altica---custom.json"
+      },
+      {
+        "label": "i3 - Bearded Earth - Custom",
+        "uiTheme": "vs-dark",
+        "path": "./themes/bearded-earth---custom.json"
+      },
+      {
         "label": "i3 - Bearded Monokai - Custom",
         "uiTheme": "vs-dark",
         "path": "./themes/bearded-monokai---custom.json"
+      },
+      {
+        "label": "i3 - Bearded Oceanic - Custom",
+        "uiTheme": "vs-dark",
+        "path": "./themes/bearded-oceanic---custom.json"
       },
       {
         "label": "i3 - Catppuccino - Custom",
@@ -169,6 +214,11 @@
         "path": "./themes/houston---custom.json"
       },
       {
+        "label": "i3 - IDX Monospace Dark - Custom",
+        "uiTheme": "vs-dark",
+        "path": "./themes/idx-monospace-dark---custom.json"
+      },
+      {
         "label": "i3 - Material Ocean - Custom",
         "uiTheme": "vs-dark",
         "path": "./themes/material-ocean---custom.json"
@@ -182,6 +232,11 @@
         "label": "i3 - Monokai Pro - Custom",
         "uiTheme": "vs-dark",
         "path": "./themes/monokai-pro---custom.json"
+      },
+      {
+        "label": "i3 - Moonlight II - Custom",
+        "uiTheme": "vs-dark",
+        "path": "./themes/moonlight-ii---custom.json"
       },
       {
         "label": "i3 - Moonlight - Custom",

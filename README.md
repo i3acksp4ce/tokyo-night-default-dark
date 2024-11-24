@@ -1,1 +1,1 @@
-Syntax highlight with increased saturate and brightness
+The VSCode theme base on github dark workbench color with WCAG 2.0

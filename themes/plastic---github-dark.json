@@ -255,7 +255,7 @@
         "source.diff"
       ],
       "settings": {
-        "foreground": "#8d94a0"
+        "foreground": "#a1a9b8"
       }
     },
     {
@@ -266,7 +266,7 @@
         "punctuation.definition.range.diff"
       ],
       "settings": {
-        "foreground": "#B57EDC"
+        "foreground": "#cf8efc"
       }
     },
     {
@@ -280,7 +280,7 @@
         "punctuation.definition.from-file.diff"
       ],
       "settings": {
-        "foreground": "#e17079"
+        "foreground": "#ff8294"
       }
     },
     {
@@ -289,7 +289,7 @@
         "support.constant"
       ],
       "settings": {
-        "foreground": "#51bcca"
+        "foreground": "#4cc2d1"
       }
     },
     {
@@ -300,7 +300,7 @@
         "meta.diff.header"
       ],
       "settings": {
-        "foreground": "#5db5fc"
+        "foreground": "#58bcff"
       }
     },
     {
@@ -313,7 +313,7 @@
         "punctuation.definition.to-file.diff"
       ],
       "settings": {
-        "foreground": "#9ac978"
+        "foreground": "#9cce77"
       }
     },
     {
@@ -324,7 +324,7 @@
         "support.type"
       ],
       "settings": {
-        "foreground": "#ebc47b"
+        "foreground": "#f1c87b"
       }
     },
     {
@@ -334,7 +334,7 @@
         "variable"
       ],
       "settings": {
-        "foreground": "#cad0db"
+        "foreground": "#ced4e0"
       }
     },
     {
@@ -344,7 +344,7 @@
         "support.other"
       ],
       "settings": {
-        "foreground": "#dc9e62"
+        "foreground": "#e6a15f"
       }
     },
     {
@@ -353,7 +353,7 @@
         "punctuation"
       ],
       "settings": {
-        "foreground": "#adb7c9"
+        "foreground": "#b1bcd0"
       }
     },
     {
