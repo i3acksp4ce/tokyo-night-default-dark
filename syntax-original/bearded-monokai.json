@@ -73,7 +73,7 @@
         "comment.block.documentation source"
       ],
       "settings": {
-        "fontStyle": "italic",
+        "fontStyle": "",
         "foreground": "#cfbfbf59"
       }
     },
@@ -670,7 +670,7 @@
     {
       "scope": ["markup.italic", "punctuation.definition.italic"],
       "settings": {
-        "fontStyle": "italic",
+        "fontStyle": "",
         "foreground": "#fc9867"
       }
     },
@@ -696,7 +696,7 @@
         "meta.embedded.block.frontmatter string.unquoted.plain.out"
       ],
       "settings": {
-        "fontStyle": "italic",
+        "fontStyle": "",
         "foreground": "#545454"
       }
     },

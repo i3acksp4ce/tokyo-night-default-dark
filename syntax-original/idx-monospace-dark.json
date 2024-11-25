@@ -126,28 +126,28 @@
       "scope": "invalid.broken",
       "settings": {
         "foreground": "#FFC6D0",
-        "fontStyle": "italic"
+        "fontStyle": ""
       }
     },
     {
       "scope": "invalid.deprecated",
       "settings": {
         "foreground": "#FFC6D0",
-        "fontStyle": "italic"
+        "fontStyle": ""
       }
     },
     {
       "scope": "invalid.illegal",
       "settings": {
         "foreground": "#FFC6D0",
-        "fontStyle": "italic"
+        "fontStyle": ""
       }
     },
     {
       "scope": "invalid.unimplemented",
       "settings": {
         "foreground": "#FFC6D0",
-        "fontStyle": "italic"
+        "fontStyle": ""
       }
     },
     {
@@ -241,7 +241,7 @@
       "scope": "markup.italic",
       "settings": {
         "foreground": "#D9DFE7",
-        "fontStyle": "italic"
+        "fontStyle": ""
       }
     },
     {

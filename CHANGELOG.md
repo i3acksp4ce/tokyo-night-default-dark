@@ -1,5 +1,9 @@
 # Change Log
 
+#### [0.6.61]
+
+- Remove all italic font style.
+
 #### [0.6.6]
 
 - Add some new themes workbench & syntax

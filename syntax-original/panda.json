@@ -5,7 +5,7 @@
       "scope": "comment",
       "settings": {
         "foreground": "#676B79",
-        "fontStyle": "italic"
+        "fontStyle": ""
       }
     },
     {
@@ -197,7 +197,7 @@
     {
       "scope": "punctuation.definition.expression, punctuation.definition.subexpression, punctuation.definition.block.unescaped, punctuation.definition.tag",
       "settings": {
-        "fontStyle": "italic",
+        "fontStyle": "",
         "foreground": "#FFCC95"
       }
     },
@@ -253,7 +253,7 @@
       "scope": "support.class.component",
       "settings": {
         "foreground": "#FF75B5",
-        "fontStyle": "italic"
+        "fontStyle": ""
       }
     },
     {
@@ -298,14 +298,14 @@
       "scope": "markup.italic",
       "settings": {
         "foreground": "#FF9AC1",
-        "fontStyle": "italic"
+        "fontStyle": ""
       }
     },
     {
       "scope": "punctuation.definition.italic.markdown",
       "settings": {
         "foreground": "#FF75B5",
-        "fontStyle": "italic"
+        "fontStyle": ""
       }
     },
     {
@@ -336,7 +336,7 @@
       "scope": "markup.inline.raw",
       "settings": {
         "foreground": "#19f9d8",
-        "fontStyle": "italic"
+        "fontStyle": ""
       }
     },
     {
@@ -355,7 +355,7 @@
       "scope": "fenced_code.block.language",
       "settings": {
         "foreground": "#BBBBBB",
-        "fontStyle": "italic"
+        "fontStyle": ""
       }
     },
     {
@@ -369,7 +369,7 @@
       "scope": "meta.link.inline.markdown",
       "settings": {
         "foreground": "#45A9F9",
-        "fontStyle": "italic"
+        "fontStyle": ""
       }
     },
     {
@@ -485,14 +485,14 @@
       "scope": "entity.name.type.instance.jsdoc punctuation.definition",
       "settings": {
         "foreground": "#FFCC95",
-        "fontStyle": "italic"
+        "fontStyle": ""
       }
     },
     {
       "scope": "entity.name.type.instance.jsdoc",
       "settings": {
         "foreground": "#CDCDCD",
-        "fontStyle": "italic"
+        "fontStyle": ""
       }
     },
     {

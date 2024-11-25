@@ -45,7 +45,7 @@
         "string.quoted.docstring.multi",
         "comment.block.documentation source"
       ],
-      "settings": { "fontStyle": "italic", "foreground": "#d59a9a59" }
+      "settings": { "fontStyle": "", "foreground": "#d59a9a59" }
     },
     {
       "scope": ["constant", "support.constant.core.php"],
@@ -564,7 +564,7 @@
     },
     {
       "scope": ["markup.italic", "punctuation.definition.italic"],
-      "settings": { "fontStyle": "italic", "foreground": "#D1711D" }
+      "settings": { "fontStyle": "", "foreground": "#D1711D" }
     },
     {
       "scope": [
@@ -583,7 +583,7 @@
         "meta.embedded.block.frontmatter punctuation.definition.tag.end",
         "meta.embedded.block.frontmatter string.unquoted.plain.out"
       ],
-      "settings": { "fontStyle": "italic", "foreground": "#503939" }
+      "settings": { "fontStyle": "", "foreground": "#503939" }
     },
     {
       "scope": ["entity.other.attribute-name.pseudo-class"],

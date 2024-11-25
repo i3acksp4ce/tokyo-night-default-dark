@@ -252,7 +252,7 @@
       "scope": "comment",
       "settings": {
         "foreground": "#a6aab9",
-        "fontStyle": "italic"
+        "fontStyle": ""
       }
     },
     {
@@ -444,7 +444,7 @@
     {
       "scope": "punctuation.definition.expression, punctuation.definition.subexpression, punctuation.definition.block.unescaped, punctuation.definition.tag",
       "settings": {
-        "fontStyle": "italic",
+        "fontStyle": "",
         "foreground": "#ffd798"
       }
     },
@@ -500,7 +500,7 @@
       "scope": "support.class.component",
       "settings": {
         "foreground": "#ff67fd",
-        "fontStyle": "italic"
+        "fontStyle": ""
       }
     },
     {
@@ -545,14 +545,14 @@
       "scope": "markup.italic",
       "settings": {
         "foreground": "#ffa6de",
-        "fontStyle": "italic"
+        "fontStyle": ""
       }
     },
     {
       "scope": "punctuation.definition.italic.markdown",
       "settings": {
         "foreground": "#ff67fd",
-        "fontStyle": "italic"
+        "fontStyle": ""
       }
     },
     {
@@ -583,7 +583,7 @@
       "scope": "markup.inline.raw",
       "settings": {
         "foreground": "#00fff6",
-        "fontStyle": "italic"
+        "fontStyle": ""
       }
     },
     {
@@ -602,7 +602,7 @@
       "scope": "fenced_code.block.language",
       "settings": {
         "foreground": "#c4c4c4",
-        "fontStyle": "italic"
+        "fontStyle": ""
       }
     },
     {
@@ -616,7 +616,7 @@
       "scope": "meta.link.inline.markdown",
       "settings": {
         "foreground": "#31b8ff",
-        "fontStyle": "italic"
+        "fontStyle": ""
       }
     },
     {
@@ -732,14 +732,14 @@
       "scope": "entity.name.type.instance.jsdoc punctuation.definition",
       "settings": {
         "foreground": "#ffd798",
-        "fontStyle": "italic"
+        "fontStyle": ""
       }
     },
     {
       "scope": "entity.name.type.instance.jsdoc",
       "settings": {
         "foreground": "#d5d5d5",
-        "fontStyle": "italic"
+        "fontStyle": ""
       }
     },
     {
