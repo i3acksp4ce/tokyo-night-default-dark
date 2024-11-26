@@ -1,5 +1,9 @@
 # Change Log
 
+#### [0.6.62]
+
+- Fix dropdown color workbench
+
 #### [0.6.61]
 
 - Remove all italic font style.
